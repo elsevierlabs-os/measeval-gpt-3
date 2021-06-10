@@ -1,0 +1,119 @@
+Text:
+The particles also significantly toughened the epoxy polymer even at about −100 °C.
+
+Data:
+Quantity: about −100 °C
+Unit: °C
+Property: toughened
+Entity: particles
+<|endoftext|>
+Text:
+(I–M) Teratoma formation at 3 months after transplantation in the testes of SCID mice.
+
+Data:
+Quantity: 3 months
+Unit: months
+Property: after transplantation
+Entity: Teratoma formation
+<|endoftext|>
+Text:
+The hiPSCs cultured in spinner flasks for more than 10 passages not only could be remained pluripotent as indicated by in vitro and in vivo assays, but also could be efficiently induced toward mesodermal and hematopoietic differentiation.
+
+Data:
+Quantity: 10 passages
+Unit: passages
+Property: cultured
+Entity: hiPSCs
+<|endoftext|>
+Text: 
+An additional uncertainty arises from saturation profiling, which discerns between pores filled with brine and pores filled with CO2 above a poorly constrained level of saturation (Arts et al., 2004). It follows from the commonly used Gassmann equation (Gassmann, 1951) that: (a) very low saturations of less than a few percent are undetectable; (b) a strong correlation emerges as the gas saturation increases from a few percent to around thirty percent; and (c) for saturations much above thirty percent, it is difficult to distinguish between moderate and high saturations. It follows that the 80% gas saturation that is commonly assumed for the Sleipner plume, while reasonable (Chadwick et al., 2005; Bickle et al., 2007), remains uncertain (Lumley, 2008). If the 80% assumption represents a reasonable upper limit to the mean saturation for the plume, the lower limit could be as low as 40%, halving mass balance estimates premised on the widely assumed high-saturation value.
+
+Data:
+Quantity: a few percent to around thirty percent
+Unit: percent
+Entity:  gas saturation
+
+Quantity: above thirty percent
+Unit: percent
+Entity: saturations
+
+Quantity: 80%
+Unit: %
+Property: gas saturation
+Entity: Sleipner plume
+
+Quantity: 80%
+Unit: %
+Property: upper limit
+Entity: mean saturation for the plume
+
+Quantity: 40%     
+Property: lower limit
+Entity: mean saturation for the plume
+<|endoftext|>
+Text: 
+Quantitative imaging analysis revealed that approximately 78 ± 0.6% of cells were Sox17-positive on D5 and approximately 88 ± 1.1% of cells were AFP-positive on D13 and approximately 29 ± 0.9% of cells were ALB-positive on D20 (Fig. 3D). The ALB secretion in the media of differentiated FAP-specific iPS cells on D20 was approximately 20 μg/ml (Fig. 3E). Moreover, these D20 differentiated FAP-specific iPS cells were also periodic acid-Schiff (PAS)-positive, indicating cytoplasmic glycogen storage (Fig. 3F). These results clearly indicated that FAP-specific iPS cells had the potential to differentiate into hepatocyte-like cells.
+
+Data:
+Quantity: approximately 78 ± 0.6% 
+Unit: %
+Property: Sox17-positive on D5
+Entity: cells
+
+Quantity: approximately 88 ± 1.1%
+Unit: %
+Property: AFP-positive on D13
+Entity: cells
+
+Quantity: approximately 29 ± 0.9%
+Unit: %
+Property: ALB-positive on D20
+Entity: cells
+
+Quantity:  approximately 20 μg/ml
+Unit: μg/ml
+Entity:  1ALB secretion
+<|endoftext|>
+Text: 
+In vivo incorporation of 35S-methionine/cysteine into mitochondrially encoded proteins was visualised by separation of cell lysate (50 μg) through SDS–PAGE, exposure of the dried gel to a PhosphorImage screen, followed by Storm and ImageQuant analysis (upper panel). 
+
+Data:
+Quantity: 50 μg
+Unit: μg
+Entity:  cell lysate
+<|endoftext|>
+Text: 
+There is a red-shift in the solid state CD spectrum of GMP compared with its liquid CD spectrum. The negative band about the conformation of the sugar moiety has nearly disappeared. In solid-state, mutarotation is more difficult and the negative band at the 260 nm nearby can be detected which indicates that the GMP ligand is mainly β-anomers. In the spectrum of complex 1, the weak negative band at 215–225 nm indicates that the GMP exists as l-ribo [5], which is induced by the strong π–π and hydrogen bonding interaction. For solid samples, CD spectroscopy is highly sensitive to even a very small distortion from planarity of the aromatic chromophore [12]. The strong negative CE centered at 297 nm (θ ≈ − 10 mdeg) is due to the excitation coupling of π → π* transitions of the aromatic chromophores, including the intra- and intermolecular coupling of the guanine chromophores [13], which is consistent with the single crystal structure.
+
+Data:
+Quantity: 260 nm  
+Unit: nm
+Property: negative band
+Entity: solid state CD spectrum of GMP
+
+Quantity: 215–225 nm
+Unit: nm
+Property: negative band
+Entity: spectrum of complex 1
+
+Quantity: 297 nm
+Unit: nm
+Entity: strong negative CE
+
+Quantity: ≈ − 10 mdeg
+Unit: mdeg
+Entity: θ
+<|endoftext|>
+Text: Serial passaging of two different hiPSC lines in the spinner flasks using the E8 medium preserved their normal karyotype and expression of undifferentiated state markers of TRA-1–60, SSEA4, OCT4, and NANOG.
+
+Quantity: two
+Entity: hiPSC lines
+<|endoftext|>
+Text: The injection level range studied varied with the lifetime of the sample, but was usually in the range 1013 cm−3 to 1016 cm−3.
+
+Data:
+Quantity: range 1013 cm−3 to 1016 cm−3
+Unit: cm−3
+Entity: injection level range
+<|endoftext|>
+Text:
