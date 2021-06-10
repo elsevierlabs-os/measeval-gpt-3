@@ -1,0 +1,5 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0257897213007573-959	3	Quantity	329	336	1	0.22 nm	{ "unit": "nm"}
+S0257897213007573-959	3	MeasuredProperty	280	283	2	RMS	{"HasQuantity":"1"}
+S0257897213007573-959	5	Quantity	1058	1065	5	1.46 nm	{ "unit": "nm"}
+S0257897213007573-959	5	MeasuredProperty	280	283	6	RMS	{"HasQuantity":"5"}

@@ -1,0 +1,4 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S2213158213000582-1183	1	Quantity	306	335	1	100 ms auditory abnormalities	
+S2213158213000582-1183	1	MeasuredEntity	505	524	2	individuals with SZ	{"HasQuantity":"1"}
+S2213158213000582-1183	17	Quantity	112	127	33	100 ms auditory	

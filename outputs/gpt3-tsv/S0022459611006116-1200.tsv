@@ -1,0 +1,45 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0022459611006116-1200	1	Quantity	287	297	1	5≤2θ/°≤120	{ "unit": "2θ/°"}
+S0022459611006116-1200	1	MeasuredEntity	305	314	2	step size	{"HasQuantity":"1"}
+S0022459611006116-1200	2	Quantity	329	333	3	14 h	{ "unit": "h"}
+S0022459611006116-1200	2	MeasuredEntity	305	314	4	step size	{"HasQuantity":"3"}
+S0022459611006116-1200	3	Quantity	329	333	5	14 h	{ "unit": "h"}
+S0022459611006116-1200	3	MeasuredEntity	305	314	6	step size	{"HasQuantity":"5"}
+S0022459611006116-1200	4	Quantity	329	333	7	14 h	{ "unit": "h"}
+S0022459611006116-1200	4	MeasuredEntity	305	314	8	step size	{"HasQuantity":"7"}
+S0022459611006116-1200	5	Quantity	329	333	9	14 h	{ "unit": "h"}
+S0022459611006116-1200	5	MeasuredEntity	305	314	10	step size	{"HasQuantity":"9"}
+S0022459611006116-1200	6	Quantity	329	333	11	14 h	{ "unit": "h"}
+S0022459611006116-1200	6	MeasuredEntity	305	314	12	step size	{"HasQuantity":"11"}
+S0022459611006116-1200	7	Quantity	329	333	13	14 h	{ "unit": "h"}
+S0022459611006116-1200	7	MeasuredEntity	305	314	14	step size	{"HasQuantity":"13"}
+S0022459611006116-1200	8	Quantity	329	333	15	14 h	{ "unit": "h"}
+S0022459611006116-1200	8	MeasuredEntity	305	314	16	step size	{"HasQuantity":"15"}
+S0022459611006116-1200	9	Quantity	329	333	17	14 h	{ "unit": "h"}
+S0022459611006116-1200	9	MeasuredEntity	305	314	18	step size	{"HasQuantity":"17"}
+S0022459611006116-1200	10	Quantity	329	333	19	14 h	{ "unit": "h"}
+S0022459611006116-1200	10	MeasuredEntity	305	314	20	step size	{"HasQuantity":"19"}
+S0022459611006116-1200	11	Quantity	329	333	21	14 h	{ "unit": "h"}
+S0022459611006116-1200	11	MeasuredEntity	305	314	22	step size	{"HasQuantity":"21"}
+S0022459611006116-1200	12	Quantity	329	333	23	14 h	{ "unit": "h"}
+S0022459611006116-1200	12	MeasuredEntity	305	314	24	step size	{"HasQuantity":"23"}
+S0022459611006116-1200	13	Quantity	329	333	25	14 h	{ "unit": "h"}
+S0022459611006116-1200	13	MeasuredEntity	305	314	26	step size	{"HasQuantity":"25"}
+S0022459611006116-1200	14	Quantity	329	333	27	14 h	{ "unit": "h"}
+S0022459611006116-1200	14	MeasuredEntity	305	314	28	step size	{"HasQuantity":"27"}
+S0022459611006116-1200	15	Quantity	329	333	29	14 h	{ "unit": "h"}
+S0022459611006116-1200	15	MeasuredEntity	305	314	30	step size	{"HasQuantity":"29"}
+S0022459611006116-1200	16	Quantity	329	333	31	14 h	{ "unit": "h"}
+S0022459611006116-1200	16	MeasuredEntity	305	314	32	step size	{"HasQuantity":"31"}
+S0022459611006116-1200	17	Quantity	329	333	33	14 h	{ "unit": "h"}
+S0022459611006116-1200	17	MeasuredEntity	305	314	34	step size	{"HasQuantity":"33"}
+S0022459611006116-1200	18	Quantity	329	333	35	14 h	{ "unit": "h"}
+S0022459611006116-1200	18	MeasuredEntity	305	314	36	step size	{"HasQuantity":"35"}
+S0022459611006116-1200	19	Quantity	329	333	37	14 h	{ "unit": "h"}
+S0022459611006116-1200	19	MeasuredEntity	305	314	38	step size	{"HasQuantity":"37"}
+S0022459611006116-1200	20	Quantity	329	333	39	14 h	{ "unit": "h"}
+S0022459611006116-1200	20	MeasuredEntity	305	314	40	step size	{"HasQuantity":"39"}
+S0022459611006116-1200	21	Quantity	329	333	41	14 h	{ "unit": "h"}
+S0022459611006116-1200	21	MeasuredEntity	305	314	42	step size	{"HasQuantity":"41"}
+S0022459611006116-1200	22	Quantity	329	333	43	14 h	{ "unit": "h"}
+S0022459611006116-1200	22	MeasuredEntity	305	314	44	step size	{"HasQuantity":"43"}

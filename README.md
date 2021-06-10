@@ -1,8 +1,8 @@
-# measeval-gpt-3
+# MeasEval GPT-3 Utilities
 
-This repo contains various Python utility code and notebooks related to the evaluation of OpenAi's GPT-3 on SemEval 2021 - Task 8, MeasEval.  In order to generate actual GPT-3 predictions you will need an API key from OpenAI. 
+This repo contains various Python utility code and iPython notebooks related to the evaluation of OpenAi's GPT-3 on SemEval 2021 - Task 8, MeasEval.  In order to generate actual GPT-3 predictions you will need an API key from OpenAI. 
 
-The process of evaluating the MeasEval datasets agasint GPT-3 is a mult-step process. 
+The process of evaluating the MeasEval datasets against GPT-3 is a mult-step process. 
 
 
 1. Submit MeaseEval Evaluation paragraphs to GPT-3
@@ -16,11 +16,11 @@ The python driver to submit paragraphs (along with bath few shot prompts) is loc
 - "resultsDirectory" - directory in which to place the GPT-3 JSON output
 - "api_key" - OpenAI API key
 
-Our raw results from the MeasEval eval paragraphs are located in this repo in the .... directory
+The keyset groupings we ran are located in this repo in the 'keys' directory and the corresponding raw results from the MeasEval eval paragraphs are located in the 'outputs/gpt3-results' directory.
 
 2. Convert GPT-3 JSON response format into MeasEval TSV format
 
-The MeaseEval evaluation script expects its input to be a specific TSV format. We use the Convert_GPT-3_To_TSV.py program to convert the files created in the previous step output into this format. The program will process an output file from step 1. It converts them to the MeasEval TSV format, and populates some of the data and types that we were unable to get GPT-3 to create. This is detailed in our paper. The program creates a TSV file for each paragraph contained in the JSON input file. 
+The  evaluation script from MeasEval (https://github.com/harperco/MeasEval/tree/main/eval) expects its input to be a specific TSV format. We use the Convert_GPT-3_To_TSV.py program to convert the files created in the previous step output into this format. The program will process an output file from step 1. It converts them to the MeasEval TSV format, and populates some of the data and types that we were unable to get GPT-3 to create. This is detailed in our paper. The program creates a TSV file for each paragraph contained in the JSON input file. 
 
 The program takes 3 command line parameters
 
@@ -28,17 +28,26 @@ The program takes 3 command line parameters
 - paragraphDirectory - directory containing the paragraphs that were submitted to GPT-3 to create the resultsFile
 - tsvDirectory - Directory to place the MeasEval TSV format files into
 
-Our converted results are located in this repo in the x......  directory 
+Our converted TSV results are located in this repo in the 'outputs/tsv'  directory 
 
-3. Remove potential duplicate ....
+3. Remove potential duplicate annotations.
 
-4. Run the actual MeasEval evaluation script
+When running our GPT-3 scripts we noticed a number of cases where the output woudl repeatedly output the same annotation sequences multiple times. Due to the way that the MeasEval evaluation script operates, that could have the effect of artifically increasing or decreasing the final scores. In order to address this issue, we post-processed the TSV-format annotation files to drop any identical annotation sets. We'd like to thank Corey Harper for providing the MeasEval iPython Notebook that we used for this step. 
 
+The Notebook needs 3 parameters updated in cell 2:
+
+- submissions - base directory for the MeasEval submission(s)
+- inputSub - subdireectory that has the input TSV annotation files to de-duplicate
+- outputSub - subdirectory to write the de-duplicated TSV annotation files to
+
+Our de-duplicated TSV files are located in this repo in the 'outputs/tsv_dedupe' folder.
+
+4. Run the actual MeasEval evaluation script agasint our TSV files. Code and instructions can be found at: https://github.com/harperco/MeasEval/tree/main/eval.
 
 
 
 Citing
 If you need to cite this software in your own work, please use the following DOI.
 
-Kohler, Curt and Harper, Corey (2021), Elsevier Labs. MeasEval GPT-3 Utilities [Computer Software]; https://github.com/elsevierlabs-os/measeval-gpt-3.
+Kohler, Curt (2021), Elsevier Labs. MeasEval GPT-3 Utilities [Computer Software]; https://github.com/elsevierlabs-os/measeval-gpt-3.
 

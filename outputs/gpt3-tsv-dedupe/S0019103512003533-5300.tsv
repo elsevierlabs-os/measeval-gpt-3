@@ -1,0 +1,10 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0019103512003533-5300	1	Quantity	164	182	1	virtually constant	{ "unit": "K"}
+S0019103512003533-5300	1	MeasuredEntity	4	15	2	temperature	{"HasQuantity":"1"}
+S0019103512003533-5300	2	Quantity	282	287	3	550 K	{ "unit": "K"}
+S0019103512003533-5300	2	MeasuredEntity	4	15	4	temperature	{"HasQuantity":"3"}
+S0019103512003533-5300	3	Quantity	291	296	5	850 K	{ "unit": "K"}
+S0019103512003533-5300	3	MeasuredEntity	4	15	6	temperature	{"HasQuantity":"5"}
+S0019103512003533-5300	4	Quantity	281	287	7	∼550 K	{ "unit": "K"}
+S0019103512003533-5300	4	MeasuredEntity	4	15	8	temperature	{"HasQuantity":"7"}
+S0019103512003533-5300	24	Quantity	281	282	27	∼	

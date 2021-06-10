@@ -1,0 +1,9 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S2213158213000582-1410	1	Quantity	506	511	1	50 ms	{ "unit": "ms"}
+S2213158213000582-1410	1	MeasuredEntity	501	511	2	left 50 ms	{"HasQuantity":"1"}
+S2213158213000582-1410	2	Quantity	526	532	3	100 ms	{ "unit": "ms"}
+S2213158213000582-1410	2	MeasuredEntity	516	532	4	bilateral 100 ms	{"HasQuantity":"3"}
+S2213158213000582-1410	3	Quantity	588	599	5	bilaterally	
+S2213158213000582-1410	3	MeasuredEntity	506	511	6	50 ms	{"HasQuantity":"5"}
+S2213158213000582-1410	4	Quantity	588	599	7	bilaterally	
+S2213158213000582-1410	4	MeasuredEntity	526	532	8	100 ms	{"HasQuantity":"7"}

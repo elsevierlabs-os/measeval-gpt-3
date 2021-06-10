@@ -1,0 +1,5 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0378383912000130-3739	1	Quantity	204	235	1	approximately constant gradient	{ "unit": "gradient"}
+S0378383912000130-3739	1	MeasuredEntity	175	195	2	experimental results	{"HasQuantity":"1"}
+S0378383912000130-3739	4	Quantity	353	383	3	initial stages of infiltration	{ "unit": "initial stages of infiltration"}
+S0378383912000130-3739	4	MeasuredEntity	576	594	4	experimental error	{"HasQuantity":"3"}

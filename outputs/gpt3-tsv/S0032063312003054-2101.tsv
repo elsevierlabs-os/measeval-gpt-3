@@ -1,0 +1,5 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0032063312003054-2101	1	Quantity	51	59	1	net flux	{ "unit": "flux"}
+S0032063312003054-2101	1	MeasuredEntity	67	76	2	particles	{"HasQuantity":"1"}
+S0032063312003054-2101	2	Quantity	82	147	3	difference between the net flux from electrons and the heavy-ions	{ "unit": "flux"}
+S0032063312003054-2101	2	MeasuredEntity	290	333	4	currents caused by parallel electric fields	{"HasQuantity":"3"}

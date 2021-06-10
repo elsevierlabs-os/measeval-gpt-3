@@ -1,0 +1,7 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S016412121300188X-4207	1	Quantity	158	161	1	14%	{ "unit": "%"}
+S016412121300188X-4207	1	MeasuredEntity	25	45	2	slice size deviation	{"HasQuantity":"1"}
+S016412121300188X-4207	2	Quantity	235	238	3	37%	{ "unit": "%"}
+S016412121300188X-4207	2	MeasuredEntity	25	45	4	slice size deviation	{"HasQuantity":"3"}
+S016412121300188X-4207	3	Quantity	541	552	5	30 programs	
+S016412121300188X-4207	3	MeasuredEntity	544	552	6	programs	{"HasQuantity":"5"}

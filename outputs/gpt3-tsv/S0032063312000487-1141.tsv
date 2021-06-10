@@ -1,0 +1,15 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0032063312000487-1141	1	Quantity	439	442	1	77%	{ "unit": "%"}
+S0032063312000487-1141	1	MeasuredEntity	468	488	2	tailward propagation	{"HasQuantity":"1"}
+S0032063312000487-1141	2	Quantity	439	442	3	77%	{ "unit": "%"}
+S0032063312000487-1141	2	MeasuredEntity	512	531	4	dawn side crossings	{"HasQuantity":"3"}
+S0032063312000487-1141	3	Quantity	536	539	5	76%	{ "unit": "%"}
+S0032063312000487-1141	3	MeasuredEntity	547	566	6	dusk side crossings	{"HasQuantity":"5"}
+S0032063312000487-1141	4	Quantity	872	875	7	89%	{ "unit": "%"}
+S0032063312000487-1141	4	MeasuredEntity	468	488	8	tailward propagation	{"HasQuantity":"7"}
+S0032063312000487-1141	5	Quantity	934	937	9	94%	{ "unit": "%"}
+S0032063312000487-1141	5	MeasuredEntity	512	531	10	dawn side crossings	{"HasQuantity":"9"}
+S0032063312000487-1141	6	Quantity	969	972	11	86%	{ "unit": "%"}
+S0032063312000487-1141	6	MeasuredEntity	547	566	12	dusk side crossings	{"HasQuantity":"11"}
+S0032063312000487-1141	7	Quantity	8	11	13	all	{ "unit": "all"}
+S0032063312000487-1141	7	MeasuredEntity	1005	1030	14	wave-associated crossings	{"HasQuantity":"13"}

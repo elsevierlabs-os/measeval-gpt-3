@@ -1,0 +1,5 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0012821X13007309-1649	1	Quantity	460	469	1	0.5‰ VPDB	{ "unit": "‰"}
+S0012821X13007309-1649	1	MeasuredEntity	418	427	2	excursion	{"HasQuantity":"1"}
+S0012821X13007309-1649	2	Quantity	817	829	3	1035.75 mbsf	{ "unit": "mbsf"}
+S0012821X13007309-1649	2	MeasuredEntity	777	810	4	maximum enrichment in the δ13Corg	{"HasQuantity":"3"}

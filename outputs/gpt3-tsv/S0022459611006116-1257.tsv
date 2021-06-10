@@ -1,0 +1,15 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0022459611006116-1257	1	Quantity	64	70	1	1323 K	{ "unit": "K"}
+S0022459611006116-1257	1	MeasuredEntity	21	31	2	Mg3NF3 (1)	{"HasQuantity":"1"}
+S0022459611006116-1257	2	Quantity	247	258	3	4.2153(4) Å	{ "unit": "Å"}
+S0022459611006116-1257	2	MeasuredProperty	33	34	4	a	{"HasQuantity":"3"}
+S0022459611006116-1257	2	MeasuredEntity	224	239	5	cubic unit cell	{"HasProperty":"4"}
+S0022459611006116-1257	3	Quantity	528	538	6	1.1(2) wt%	{ "unit": "wt%"}
+S0022459611006116-1257	3	MeasuredEntity	433	448	7	secondary phase	{"HasQuantity":"6"}
+S0022459611006116-1257	4	Quantity	922	929	8	9.36 fm	{ "unit": "fm"}
+S0022459611006116-1257	4	MeasuredEntity	917	921	9	N: b	{"HasQuantity":"8"}
+S0022459611006116-1257	5	Quantity	936	943	10	5.65 fm	{ "unit": "fm"}
+S0022459611006116-1257	5	MeasuredEntity	931	935	11	F: b	{"HasQuantity":"10"}
+S0022459611006116-1257	6	Quantity	64	70	12	1323 K	{ "unit": "K"}
+S0022459611006116-1257	7	Quantity	64	70	13	1323 K	{ "unit": "K"}
+S0022459611006116-1257	7	MeasuredEntity	148	169	14	ICDD database entry (	{"HasQuantity":"13"}

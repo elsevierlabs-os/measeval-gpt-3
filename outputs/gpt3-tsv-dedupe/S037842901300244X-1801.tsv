@@ -1,0 +1,4 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S037842901300244X-1801	1	Quantity	157	159	1	S1	
+S037842901300244X-1801	1	MeasuredEntity	395	404	2	progenies	{"HasQuantity":"1"}
+S037842901300244X-1801	33	Quantity	157	158	65	S	

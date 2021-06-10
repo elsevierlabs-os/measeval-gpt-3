@@ -1,0 +1,49 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0967064513002774-1376	1	Quantity	75	81	1	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	1	MeasuredEntity	82	101	2	incubation chambers	{"HasQuantity":"1"}
+S0967064513002774-1376	2	Quantity	75	81	3	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	2	MeasuredEntity	82	101	4	incubation chambers	{"HasQuantity":"3"}
+S0967064513002774-1376	3	Quantity	75	81	5	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	3	MeasuredEntity	82	101	6	incubation chambers	{"HasQuantity":"5"}
+S0967064513002774-1376	4	Quantity	75	81	7	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	4	MeasuredEntity	82	101	8	incubation chambers	{"HasQuantity":"7"}
+S0967064513002774-1376	5	Quantity	75	81	9	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	5	MeasuredEntity	82	101	10	incubation chambers	{"HasQuantity":"9"}
+S0967064513002774-1376	6	Quantity	75	81	11	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	6	MeasuredEntity	82	101	12	incubation chambers	{"HasQuantity":"11"}
+S0967064513002774-1376	7	Quantity	75	81	13	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	7	MeasuredEntity	82	101	14	incubation chambers	{"HasQuantity":"13"}
+S0967064513002774-1376	8	Quantity	75	81	15	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	8	MeasuredEntity	82	101	16	incubation chambers	{"HasQuantity":"15"}
+S0967064513002774-1376	9	Quantity	75	81	17	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	9	MeasuredEntity	82	101	18	incubation chambers	{"HasQuantity":"17"}
+S0967064513002774-1376	10	Quantity	75	81	19	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	10	MeasuredEntity	82	101	20	incubation chambers	{"HasQuantity":"19"}
+S0967064513002774-1376	11	Quantity	75	81	21	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	11	MeasuredEntity	82	101	22	incubation chambers	{"HasQuantity":"21"}
+S0967064513002774-1376	12	Quantity	75	81	23	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	12	MeasuredEntity	82	101	24	incubation chambers	{"HasQuantity":"23"}
+S0967064513002774-1376	13	Quantity	75	81	25	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	13	MeasuredEntity	82	101	26	incubation chambers	{"HasQuantity":"25"}
+S0967064513002774-1376	14	Quantity	75	81	27	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	14	MeasuredEntity	82	101	28	incubation chambers	{"HasQuantity":"27"}
+S0967064513002774-1376	15	Quantity	75	81	29	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	15	MeasuredEntity	82	101	30	incubation chambers	{"HasQuantity":"29"}
+S0967064513002774-1376	16	Quantity	75	81	31	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	16	MeasuredEntity	82	101	32	incubation chambers	{"HasQuantity":"31"}
+S0967064513002774-1376	17	Quantity	75	81	33	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	17	MeasuredEntity	82	101	34	incubation chambers	{"HasQuantity":"33"}
+S0967064513002774-1376	18	Quantity	75	81	35	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	18	MeasuredEntity	82	101	36	incubation chambers	{"HasQuantity":"35"}
+S0967064513002774-1376	19	Quantity	75	81	37	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	19	MeasuredEntity	82	101	38	incubation chambers	{"HasQuantity":"37"}
+S0967064513002774-1376	20	Quantity	75	81	39	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	20	MeasuredEntity	82	101	40	incubation chambers	{"HasQuantity":"39"}
+S0967064513002774-1376	21	Quantity	75	81	41	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	21	MeasuredEntity	82	101	42	incubation chambers	{"HasQuantity":"41"}
+S0967064513002774-1376	22	Quantity	75	81	43	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	22	MeasuredEntity	82	101	44	incubation chambers	{"HasQuantity":"43"}
+S0967064513002774-1376	23	Quantity	75	81	45	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	23	MeasuredEntity	82	101	46	incubation chambers	{"HasQuantity":"45"}
+S0967064513002774-1376	24	Quantity	75	81	47	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	24	MeasuredEntity	82	101	48	incubation chambers	{"HasQuantity":"47"}

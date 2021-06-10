@@ -1,0 +1,13 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0960148113005727-1203	1	Quantity	390	394	1	2–5%	{ "unit": "%"}
+S0960148113005727-1203	1	MeasuredProperty	380	386	2	output	{"HasQuantity":"1"}
+S0960148113005727-1203	1	MeasuredEntity	36	43	3	turbine	{"HasProperty":"2"}
+S0960148113005727-1203	2	Quantity	401	403	4	1%	{ "unit": "%"}
+S0960148113005727-1203	2	MeasuredProperty	380	386	5	output	{"HasQuantity":"4"}
+S0960148113005727-1203	2	MeasuredEntity	36	43	6	turbine	{"HasProperty":"5"}
+S0960148113005727-1203	3	Quantity	408	410	7	3%	{ "unit": "%"}
+S0960148113005727-1203	3	MeasuredProperty	105	125	8	turbulence intensity	{"HasQuantity":"7"}
+S0960148113005727-1203	3	MeasuredEntity	36	43	9	turbine	{"HasProperty":"8"}
+S0960148113005727-1203	4	Quantity	401	403	10	1%	{ "unit": "%"}
+S0960148113005727-1203	4	MeasuredProperty	105	125	11	turbulence intensity	{"HasQuantity":"10"}
+S0960148113005727-1203	4	MeasuredEntity	36	43	12	turbine	{"HasProperty":"11"}

@@ -1,0 +1,9 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S095741741101342X-2642	1	Quantity	100	117	1	stacking approach	
+S095741741101342X-2642	1	MeasuredEntity	121	135	2	classification	{"HasQuantity":"1"}
+S095741741101342X-2642	2	Quantity	215	227	3	meta-learner	
+S095741741101342X-2642	2	MeasuredEntity	245	250	4	model	{"HasQuantity":"3"}
+S095741741101342X-2642	3	Quantity	373	394	5	much larger data sets	
+S095741741101342X-2642	3	MeasuredEntity	417	447	6	variety of class distributions	{"HasQuantity":"5"}
+S095741741101342X-2642	4	Quantity	495	618	7	effect of not only the percentage class distribution but also the effect of the actual number of observations in a data set	
+S095741741101342X-2642	4	MeasuredEntity	495	504	8	effect of	{"HasQuantity":"7"}

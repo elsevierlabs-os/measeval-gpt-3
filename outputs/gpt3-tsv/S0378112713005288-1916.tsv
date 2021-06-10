@@ -1,0 +1,7 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0378112713005288-1916	1	Quantity	467	487	1	regeneration density	{ "unit": "density"}
+S0378112713005288-1916	1	MeasuredEntity	89	94	2	birch	{"HasQuantity":"1"}
+S0378112713005288-1916	2	Quantity	29	54	3	distance from seed source	{ "unit": "distance"}
+S0378112713005288-1916	2	MeasuredEntity	89	94	4	birch	{"HasQuantity":"3"}
+S0378112713005288-1916	3	Quantity	29	54	5	distance from seed source	{ "unit": "distance"}
+S0378112713005288-1916	3	MeasuredEntity	501	525	6	animal-dispersed species	{"HasQuantity":"5"}

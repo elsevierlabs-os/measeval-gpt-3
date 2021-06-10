@@ -1,0 +1,15 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0925443913001385-1621	1	Quantity	16	21	1	27.5%	{ "unit": "%"}
+S0925443913001385-1621	1	MeasuredEntity	35	54	2	amino acid sequence	{"HasQuantity":"1"}
+S0925443913001385-1621	2	Quantity	150	160	3	107 to end	{ "unit": "end"}
+S0925443913001385-1621	2	MeasuredEntity	125	148	4	C-terminal domain (CTD)	{"HasQuantity":"3"}
+S0925443913001385-1621	3	Quantity	209	211	5	50	{ "unit": "%"}
+S0925443913001385-1621	3	MeasuredEntity	185	207	6	conserved in evolution	{"HasQuantity":"5"}
+S0925443913001385-1621	4	Quantity	401	406	7	51,52	{ "unit": "%"}
+S0925443913001385-1621	4	MeasuredEntity	280	294	8	EF-Tu and EF-G	{"HasQuantity":"7"}
+S0925443913001385-1621	5	Quantity	882	887	9	52,53	{ "unit": "%"}
+S0925443913001385-1621	5	MeasuredEntity	280	294	10	EF-Tu and EF-G	{"HasQuantity":"9"}
+S0925443913001385-1621	6	Quantity	918	920	11	54	{ "unit": "%"}
+S0925443913001385-1621	6	MeasuredEntity	893	916	12	crucial for translation	{"HasQuantity":"11"}
+S0925443913001385-1621	7	Quantity	1094	1096	13	55	{ "unit": "%"}
+S0925443913001385-1621	7	MeasuredEntity	1075	1092	14	tertiary contacts	{"HasQuantity":"13"}

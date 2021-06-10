@@ -1,0 +1,3 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0378383912000130-3726	1	Quantity	19	31	1	8.5 mm beach	
+S0378383912000130-3726	1	MeasuredEntity	36	57	2	numerical predictions	{"HasQuantity":"1"}

@@ -1,0 +1,3 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0960148113004989-2841	1	Quantity	437	450	1	640 m × 320 m	{ "unit": "m"}
+S0960148113004989-2841	1	MeasuredEntity	377	399	2	computational domain Ω	{"HasQuantity":"1"}

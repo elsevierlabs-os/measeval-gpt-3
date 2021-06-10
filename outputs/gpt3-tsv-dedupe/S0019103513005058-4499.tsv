@@ -1,0 +1,5 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0019103513005058-4499	1	Quantity	131	266	1	no one factor could perturb the nominal model to produce amounts of perchlorate that approach the amount measured by the Phoenix Lander	
+S0019103513005058-4499	1	MeasuredEntity	19	36	2	sensitivity tests	{"HasQuantity":"1"}
+S0019103513005058-4499	2	Quantity	270	297	3	combination of such factors	{ "unit": "factors"}
+S0019103513005058-4499	2	MeasuredEntity	270	297	4	combination of such factors	{"HasQuantity":"3"}

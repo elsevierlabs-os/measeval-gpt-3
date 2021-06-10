@@ -1,0 +1,456 @@
+{ "results": [{ "doc": "S0025322712001600-2584.txt",
+"finish_reason":"length",
+"text" : "
+
+Data:
+Quantity: less negative εNd
+Unit: εNd
+Entity: εNd
+
+Quantity: less negative εNd
+Unit: εNd
+Entity: εNd
+
+Quantity: less negative εNd
+Unit: εNd
+Entity: εNd
+
+Quantity: less negative εNd
+Unit: εNd
+Entity: εNd
+
+Quantity: less negative εNd
+Unit: εNd
+Entity: εNd
+
+Quantity: less negative εNd
+Unit: εNd
+Entity: εNd
+
+Quantity: less negative εNd
+Unit: εNd
+Entity: εNd
+
+Quantity: less negative εNd
+Unit: εNd
+Entity: εNd
+
+Quantity: less negative εNd
+Unit: εNd
+Entity: εNd
+
+Quantity: less negative εNd
+Unit: εNd
+Entity: ε"
+},
+{ "doc": "S0032063312000487-1141.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: 77%
+Unit: %
+Entity: tailward propagation
+
+Quantity: 77%
+Unit: %
+Entity: dawn side crossings
+
+Quantity: 76%
+Unit: %
+Entity: dusk side crossings
+
+Quantity: 89%
+Unit: %
+Entity: tailward propagation
+
+Quantity: 94%
+Unit: %
+Entity: dawn side crossings
+
+Quantity: 86%
+Unit: %
+Entity: dusk side crossings
+
+Quantity: all
+Unit: all
+Entity: wave-associated crossings
+"
+},
+{ "doc": "S0032063312002437-586.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: Brace et al. (1982)
+Quantity: Miller and Knudsen (1987)
+Quantity: below 400 km
+Quantity: photoionisation
+Quantity: post-noon sector
+Quantity: pre-noon sector
+Quantity: plasma flow
+Quantity: day-to-night pressure gradient
+Quantity: neutral atmosphere
+Quantity: dusk side
+Quantity: dawn side
+Quantity: thermospheric composition
+Quantity: chemical reactions
+"
+},
+{ "doc": "S0032063312002437-593.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: August 2008 and October 2009
+Unit: months
+Entity: Venus Express (VEX)
+"
+},
+{ "doc": "S0032063312003054-2101.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: net flux
+Unit: flux
+Entity: particles
+
+Quantity: difference between the net flux from electrons and the heavy-ions
+Unit: flux
+Entity: currents caused by parallel electric fields
+"
+},
+{ "doc": "S0032063312003054-2458.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: 43.0%
+Unit: %
+Entity: MEX orbits
+
+Quantity: 29.8%
+Unit: %
+Entity: electron precipitation signatures
+
+Quantity: 9.8%
+Unit: %
+Entity: peaked electrons
+Quantity: 3.4%
+
+Unit: %
+Entity: inverted-V electrons
+"
+},
+{ "doc": "S0032063313003218-5227.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: 700 K
+Unit: K
+Entity: Jovian upper atmospheric temperature
+"
+},
+{ "doc": "S0032063313003218-5269.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: 67 mW m−2
+Unit: mW m−2
+Entity: ion drag and Joule heating rates
+
+Quantity: 277 mW m−2
+Unit: mW m−2
+Entity: combined estimate of ion drag and Joule heating rates
+
+Quantity: doubling
+Unit: doubling
+Entity: increase in ionospheric electric field
+
+Quantity: 20%
+"
+},
+{ "doc": "S0032063313003218-5381.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: a few tens of minutes
+Unit: minutes
+Entity: thermospheric response
+"
+},
+{ "doc": "S0032063313003218-6078.txt",
+"finish_reason":"stop",
+"text" : " The scenario is based on the assumption that the magnetosphere is compressed by a factor of 2.5, which is a reasonable estimate for the compression of the magnetosphere by the solar wind during a solar wind shock.
+
+Data:
+Quantity: 3 h
+Unit: h
+Entity: transient magnetospheric compression scenario
+"
+},
+{ "doc": "S0032063313003218-7156.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: ~2600TW
+Unit: TW
+Entity: total power per hemisphere
+"
+},
+{ "doc": "S0032063313003218-7389.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: transient compression event
+Quantity: transient expansion event
+"
+},
+{ "doc": "S0032386113005454-1245.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: 10 wt%
+Unit: wt%
+Entity: S-CSR particles
+
+Quantity: 20 wt%
+Unit: wt%
+Entity: S-CSR particles
+"
+},
+{ "doc": "S0032386113005454-1270.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: 20 °C
+Unit: °C
+Property: glass transition temperature, Tg
+Entity: unmodified and S-CSR-modified epoxy polymers
+"
+},
+{ "doc": "S0032386113005454-2022.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: about 0.1–5 μm
+Unit: μm
+Entity: particles
+
+Quantity: about 5–20%
+Unit: %
+Entity: volume fraction
+"
+},
+{ "doc": "S0032386113005454-2876.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: 20 °C
+Unit: °C
+Property: fracture
+Entity: DN-4PB tests
+
+Quantity: transmission optical microscopy
+Entity: plastic zone at the tip of the sub-critically loaded crack
+"
+},
+{ "doc": "S0032386113005454-2886.txt",
+"finish_reason":"length",
+"text" : "
+
+Data:
+Quantity: localised shear-banding of the epoxy polymer
+Unit: localised shear-banding
+Entity: toughening events
+
+Quantity: internal cavitation of the S-CSR particles
+Unit: internal cavitation
+Entity: toughening events
+
+Quantity: relatively high toughness
+Unit: relatively high toughness
+Entity: toughness
+
+Quantity: the S-CSR-modified epoxy polymers
+Unit: the S-CSR-modified epoxy polymers
+Entity: toughness
+
+Quantity: the S-CSR particles
+Unit: the S-CSR particles
+Entity: toughness
+
+Quantity: the cavitational resistance of the S-CSR particles
+Unit: the cavitational resistance of the S-CSR particles
+Entity: toughness
+
+Quantity: the increase of the yield stress of the epoxy polymer
+Unit: the increase of the yield stress of the epoxy polymer
+Entity: toughness
+
+Quantity: the deformation of the polymer
+Unit: the deformation of the polymer
+Entity: toughness
+
+Quantity: the size of the deformation zone ahead of the crack tip
+Unit: the size of the deformation zone ahead of the crack tip
+Entity: toughness
+
+Quantity: the energy absorption from the enhanced shear-band yielding
+Unit: the energy absorption from the enhanced shear-band yielding
+Entity: toughness
+
+Quantity: the fracture energy
+Unit: the fracture energy
+Entity: toughness
+
+Quantity: the test temperature
+Unit: the test temperature
+Entity: toughness
+
+Quantity: the injection level range
+Unit: the injection level range
+Entity: injection level range
+<|endof"
+},
+{ "doc": "S0038071711004354-1624.txt",
+"finish_reason":"length",
+"text" : " The dual-chamber was then deployed on the ground and the reference chamber was removed. The dual-chamber was then left on the ground for approximately 30 min. The dual-chamber was then removed and the reference chamber was deployed on the ground. The dual-chamber was then deployed on the ground again and the reference chamber was removed. The dual-chamber was then left on the ground for approximately 30 min. The dual-chamber was then removed and the reference chamber was deployed on the ground. The dual-chamber was then deployed on the ground again and the reference chamber was removed. The dual-chamber was then left on the ground for approximately 30 min. The dual-chamber was then removed and the reference chamber was deployed on the ground. The dual-chamber was then deployed on the ground again and the reference chamber was removed. The dual-chamber was then left on the ground for approximately 30 min. The dual-chamber was then removed and the reference chamber was deployed on the ground. The dual-chamber was then deployed on the ground again and the reference chamber was removed. The dual-chamber was then left on the ground for approximately 30 min. The dual-chamber was then removed and the reference chamber was deployed on the ground. The dual-chamber was then deployed on the ground again and the reference chamber was removed. The dual-chamber was then left on the ground for approximately 30 min. The dual-chamber was then removed and the reference chamber was deployed on the ground. The dual-chamber was then deployed on the ground again and the reference chamber was removed. The dual-chamber was then left on the ground for approximately 30"
+},
+{ "doc": "S0038071711004354-1644.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: 14.8 °C
+Unit: °C
+Property: mean annual temperature
+Entity: site
+
+Quantity: 898 mm
+Unit: mm
+Property: mean annual precipitation
+Entity: site
+
+Quantity: 2–5 cm
+Unit: cm
+Property: thickness
+Entity: O horizon with fresh and decaying organic matter
+
+Quantity: 93% sand
+Unit: %
+Property: soil texture
+Entity: uppermost 0.1 m of mineral soil
+
+Quantity: 4% clay
+Unit: %
+Property: soil texture
+Entity: uppermost 0.1 m of mineral soil
+
+Quantity: 3% silt
+Unit: %
+Property: soil texture
+Entity: uppermost 0.1 m of mineral soil
+
+"
+},
+{ "doc": "S0038071711004354-2370.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: SE
+Unit: %
+Property: variability
+Entity: fL
+
+Quantity: SE
+Unit: %
+Property: variability
+Entity: fR
+
+Quantity: SE
+Unit: %
+Property: variability
+Entity: fSOM
+"
+},
+{ "doc": "S0038071711004354-2389.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: 0.18 g CO2 m−2 h−1
+Unit: g CO2 m−2 h−1
+Entity: autotrophic flux
+
+Quantity: 0.15 g CO2 m−2 h−1
+Unit: g CO2 m−2 h−1
+Entity: heterotrophic component flux
+"
+},
+{ "doc": "S0038071711004354-2578.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: porous
+Entity: sandy soil
+"
+},
+{ "doc": "S0038071711004354-755.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: approximately −14‰
+Unit: ‰
+Entity: initial δ13C
+"
+},
+{ "doc": "S016412121300188X-3207.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: 89%
+Unit: %
+Entity: programs
+
+Quantity: 40%
+Unit: %
+Entity: programs
+
+Quantity: 20KLoC
+Unit: KLoC
+Entity: average size of the programs studied
+"
+},
+{ "doc": "S016412121300188X-4207.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: 14%
+Unit: %
+Entity: slice size deviation
+
+Quantity: 37%
+Unit: %
+Entity: slice size deviation
+
+Quantity: 30 programs
+Entity: programs
+"
+},
+]}

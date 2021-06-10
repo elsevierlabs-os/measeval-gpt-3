@@ -1,0 +1,7 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0960148113002735-2182	1	Quantity	8	28	1	square configuration	
+S0960148113002735-2182	1	MeasuredEntity	34	49	2	mutual topology	{"HasQuantity":"1"}
+S0960148113002735-2182	2	Quantity	76	93	3	separate topology	
+S0960148113002735-2182	2	MeasuredEntity	76	93	4	separate topology	{"HasQuantity":"3"}
+S0960148113002735-2182	4	Quantity	947	953	5	1170 s	{ "unit": "s"}
+S0960148113002735-2182	4	MeasuredEntity	1061	1106	6	decrease in rotational velocity for turbine 3	{"HasQuantity":"5"}

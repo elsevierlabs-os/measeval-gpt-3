@@ -1,0 +1,34 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S2213158213000582-1183	1	Quantity	306	335	1	100 ms auditory abnormalities	
+S2213158213000582-1183	1	MeasuredEntity	505	524	2	individuals with SZ	{"HasQuantity":"1"}
+S2213158213000582-1183	2	Quantity	306	335	3	100 ms auditory abnormalities	
+S2213158213000582-1183	2	MeasuredEntity	505	524	4	individuals with SZ	{"HasQuantity":"3"}
+S2213158213000582-1183	3	Quantity	306	335	5	100 ms auditory abnormalities	
+S2213158213000582-1183	3	MeasuredEntity	505	524	6	individuals with SZ	{"HasQuantity":"5"}
+S2213158213000582-1183	4	Quantity	306	335	7	100 ms auditory abnormalities	
+S2213158213000582-1183	4	MeasuredEntity	505	524	8	individuals with SZ	{"HasQuantity":"7"}
+S2213158213000582-1183	5	Quantity	306	335	9	100 ms auditory abnormalities	
+S2213158213000582-1183	5	MeasuredEntity	505	524	10	individuals with SZ	{"HasQuantity":"9"}
+S2213158213000582-1183	6	Quantity	306	335	11	100 ms auditory abnormalities	
+S2213158213000582-1183	6	MeasuredEntity	505	524	12	individuals with SZ	{"HasQuantity":"11"}
+S2213158213000582-1183	7	Quantity	306	335	13	100 ms auditory abnormalities	
+S2213158213000582-1183	7	MeasuredEntity	505	524	14	individuals with SZ	{"HasQuantity":"13"}
+S2213158213000582-1183	8	Quantity	306	335	15	100 ms auditory abnormalities	
+S2213158213000582-1183	8	MeasuredEntity	505	524	16	individuals with SZ	{"HasQuantity":"15"}
+S2213158213000582-1183	9	Quantity	306	335	17	100 ms auditory abnormalities	
+S2213158213000582-1183	9	MeasuredEntity	505	524	18	individuals with SZ	{"HasQuantity":"17"}
+S2213158213000582-1183	10	Quantity	306	335	19	100 ms auditory abnormalities	
+S2213158213000582-1183	10	MeasuredEntity	505	524	20	individuals with SZ	{"HasQuantity":"19"}
+S2213158213000582-1183	11	Quantity	306	335	21	100 ms auditory abnormalities	
+S2213158213000582-1183	11	MeasuredEntity	505	524	22	individuals with SZ	{"HasQuantity":"21"}
+S2213158213000582-1183	12	Quantity	306	335	23	100 ms auditory abnormalities	
+S2213158213000582-1183	12	MeasuredEntity	505	524	24	individuals with SZ	{"HasQuantity":"23"}
+S2213158213000582-1183	13	Quantity	306	335	25	100 ms auditory abnormalities	
+S2213158213000582-1183	13	MeasuredEntity	505	524	26	individuals with SZ	{"HasQuantity":"25"}
+S2213158213000582-1183	14	Quantity	306	335	27	100 ms auditory abnormalities	
+S2213158213000582-1183	14	MeasuredEntity	505	524	28	individuals with SZ	{"HasQuantity":"27"}
+S2213158213000582-1183	15	Quantity	306	335	29	100 ms auditory abnormalities	
+S2213158213000582-1183	15	MeasuredEntity	505	524	30	individuals with SZ	{"HasQuantity":"29"}
+S2213158213000582-1183	16	Quantity	306	335	31	100 ms auditory abnormalities	
+S2213158213000582-1183	16	MeasuredEntity	505	524	32	individuals with SZ	{"HasQuantity":"31"}
+S2213158213000582-1183	17	Quantity	112	127	33	100 ms auditory	

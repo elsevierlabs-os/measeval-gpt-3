@@ -1,0 +1,7 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S2213158213000582-1050	1	Quantity	122	142	1	whole-brain measures	{ "unit": "ms"}
+S2213158213000582-1050	1	MeasuredEntity	10	18	2	encoding	{"HasQuantity":"1"}
+S2213158213000582-1050	2	Quantity	193	216	3	superior temporal gyrus	{ "unit": "STG auditory areas"}
+S2213158213000582-1050	2	MeasuredEntity	223	237	4	auditory areas	{"HasQuantity":"3"}
+S2213158213000582-1050	3	Quantity	290	327	5	frontal and supramarginal gyrus areas	
+S2213158213000582-1050	3	MeasuredEntity	290	327	6	frontal and supramarginal gyrus areas	{"HasQuantity":"5"}

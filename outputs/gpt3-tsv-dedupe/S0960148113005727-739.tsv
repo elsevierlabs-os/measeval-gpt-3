@@ -1,0 +1,3 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0960148113005727-739	1	Quantity	0	66	1	Histograms summarising the vintage of UK wind farms in our dataset	{ "unit": "years"}
+S0960148113005727-739	1	MeasuredEntity	38	51	2	UK wind farms	{"HasQuantity":"1"}

@@ -1,0 +1,12 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0925443913001385-1526	3	Quantity	170	174	1	5 μg	{ "unit": "μg"}
+S0925443913001385-1526	3	MeasuredEntity	0	3	2	RNA	{"HasQuantity":"1"}
+S0925443913001385-1526	4	Quantity	205	215	3	1.2% (w/v)	{ "unit": "% (w/v)"}
+S0925443913001385-1526	4	MeasuredEntity	216	223	4	agarose	{"HasQuantity":"3"}
+S0925443913001385-1526	5	Quantity	271	294	5	GenescreenPlus membrane	{ "unit": "membrane"}
+S0925443913001385-1526	5	MeasuredEntity	271	294	6	GenescreenPlus membrane	{"HasQuantity":"5"}
+S0925443913001385-1526	6	Quantity	389	404	7	random hexamers	{ "unit": "hexamers"}
+S0925443913001385-1526	8	Quantity	408	431	8	PCR-generated templates	{ "unit": "templates"}
+S0925443913001385-1526	8	MeasuredEntity	408	431	9	PCR-generated templates	{"HasQuantity":"8"}
+S0925443913001385-1526	9	Quantity	469	487	10	the relevant genes	{ "unit": "genes"}
+S0925443913001385-1526	9	MeasuredEntity	469	487	11	the relevant genes	{"HasQuantity":"10"}

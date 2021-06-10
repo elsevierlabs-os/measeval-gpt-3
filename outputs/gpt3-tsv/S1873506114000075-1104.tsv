@@ -1,0 +1,7 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S1873506114000075-1104	1	Quantity	101	104	1	10%	{ "unit": "%"}
+S1873506114000075-1104	1	MeasuredProperty	105	139	2	neutral buffered formalin solution	{"HasQuantity":"1"}
+S1873506114000075-1104	1	MeasuredEntity	87	95	3	fixation	{"HasProperty":"2"}
+S1873506114000075-1104	2	Quantity	101	104	4	10%	{ "unit": "%"}
+S1873506114000075-1104	2	MeasuredProperty	32	45	5	ALP substrate	{"HasQuantity":"4"}
+S1873506114000075-1104	2	MeasuredEntity	47	62	6	1-Step NBT/BCIP	{"HasProperty":"5"}

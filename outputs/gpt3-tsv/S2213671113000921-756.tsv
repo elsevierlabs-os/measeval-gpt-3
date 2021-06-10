@@ -1,0 +1,3 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S2213671113000921-756	1	Quantity	19	24	1	day 8	{ "unit": "day"}
+S2213671113000921-756	1	MeasuredEntity	25	46	2	SOX2-GFP AFE cultures	{"HasQuantity":"1"}

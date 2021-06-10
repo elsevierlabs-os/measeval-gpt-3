@@ -1,0 +1,5 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S2213158213000582-1469	1	Quantity	61	77	1	chronic patients	{ "unit": "patients"}
+S2213158213000582-1469	1	MeasuredEntity	47	55	2	subjects	{"HasQuantity":"1"}
+S2213158213000582-1469	2	Quantity	103	113	3	medication	{ "unit": "medication"}
+S2213158213000582-1469	2	MeasuredEntity	240	257	4	group differences	{"HasQuantity":"3"}

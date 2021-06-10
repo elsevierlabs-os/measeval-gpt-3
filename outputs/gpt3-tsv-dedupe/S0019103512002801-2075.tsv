@@ -1,0 +1,5 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0019103512002801-2075	1	Quantity	139	147	1	15–35 km	{ "unit": "km"}
+S0019103512002801-2075	1	MeasuredEntity	67	100	2	gyroradius of energetic electrons	{"HasQuantity":"1"}
+S0019103512002801-2075	2	Quantity	122	137	3	Rhea’s diameter	{ "unit": "km"}
+S0019103512002801-2075	2	MeasuredEntity	193	251	4	scale size of the various macroscopic interaction features	{"HasQuantity":"3"}

@@ -1,0 +1,21 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0025322712001600-2584	1	Quantity	871	888	1	less negative εNd	{ "unit": "εNd"}
+S0025322712001600-2584	1	MeasuredEntity	543	546	2	εNd	{"HasQuantity":"1"}
+S0025322712001600-2584	2	Quantity	871	888	3	less negative εNd	{ "unit": "εNd"}
+S0025322712001600-2584	2	MeasuredEntity	543	546	4	εNd	{"HasQuantity":"3"}
+S0025322712001600-2584	3	Quantity	871	888	5	less negative εNd	{ "unit": "εNd"}
+S0025322712001600-2584	3	MeasuredEntity	543	546	6	εNd	{"HasQuantity":"5"}
+S0025322712001600-2584	4	Quantity	871	888	7	less negative εNd	{ "unit": "εNd"}
+S0025322712001600-2584	4	MeasuredEntity	543	546	8	εNd	{"HasQuantity":"7"}
+S0025322712001600-2584	5	Quantity	871	888	9	less negative εNd	{ "unit": "εNd"}
+S0025322712001600-2584	5	MeasuredEntity	543	546	10	εNd	{"HasQuantity":"9"}
+S0025322712001600-2584	6	Quantity	871	888	11	less negative εNd	{ "unit": "εNd"}
+S0025322712001600-2584	6	MeasuredEntity	543	546	12	εNd	{"HasQuantity":"11"}
+S0025322712001600-2584	7	Quantity	871	888	13	less negative εNd	{ "unit": "εNd"}
+S0025322712001600-2584	7	MeasuredEntity	543	546	14	εNd	{"HasQuantity":"13"}
+S0025322712001600-2584	8	Quantity	871	888	15	less negative εNd	{ "unit": "εNd"}
+S0025322712001600-2584	8	MeasuredEntity	543	546	16	εNd	{"HasQuantity":"15"}
+S0025322712001600-2584	9	Quantity	871	888	17	less negative εNd	{ "unit": "εNd"}
+S0025322712001600-2584	9	MeasuredEntity	543	546	18	εNd	{"HasQuantity":"17"}
+S0025322712001600-2584	10	Quantity	871	888	19	less negative εNd	{ "unit": "εNd"}
+S0025322712001600-2584	10	MeasuredEntity	543	544	20	ε	{"HasQuantity":"19"}

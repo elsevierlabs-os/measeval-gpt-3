@@ -1,0 +1,3 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0378383913001567-7073	1	Quantity	143	147	1	∆t/i	{ "unit": "m"}
+S0378383913001567-7073	1	MeasuredEntity	34	53	2	time discretisation	{"HasQuantity":"1"}

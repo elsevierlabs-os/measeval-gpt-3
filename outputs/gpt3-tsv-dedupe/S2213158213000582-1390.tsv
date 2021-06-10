@@ -1,0 +1,3 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S2213158213000582-1390	1	Quantity	23	28	1	50 ms	{ "unit": "ms"}
+S2213158213000582-1390	1	MeasuredEntity	0	19	2	Group contrast maps	{"HasQuantity":"1"}

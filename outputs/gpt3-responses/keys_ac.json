@@ -1,0 +1,101 @@
+{ "results": [{ "doc": "S0167278913001450-12425.txt",
+"finish_reason":"stop",
+"text" : " The flow is steady in the sense that the flow rate is constant in time. The flow rate is constant in time because the flow is steady in the sense that the flow rate is constant in space.\n\nData:\nQuantity: 100, 500, 1000, and 1500 m\nUnit: m\nEntity: depths\n"
+},
+{ "doc": "S0167577X13006393-662.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 1 ml\nUnit: ml\nEntity: syringe\n\nQuantity: 5 ml\nUnit: ml\nEntity: syringe\n\nQuantity: 12.2 kV\nUnit: kV\nEntity: voltage\n"
+},
+{ "doc": "S0167577X13006393-801.txt",
+"finish_reason":"length",
+"text" : ".\n\nData:\nQuantity: XPS analysis\n\nQuantity: XPS analysis depth less than 10 nm\nEntity: XPS analysis\n\nQuantity: XPS analysis depth less than 10 nm\nEntity: XPS analysis depth\n\nQuantity: XPS analysis depth less than 10 nm\nEntity: XPS analysis depth\n\nQuantity: XPS analysis depth less than 10 nm\nEntity: XPS analysis depth\n\nQuantity: XPS analysis depth less than 10 nm\nEntity: XPS analysis depth\n\nQuantity: XPS analysis depth less than 10 nm\nEntity: XPS analysis depth\n\nQuantity: XPS analysis depth less than 10 nm\nEntity: XPS analysis depth\n\nQuantity: XPS analysis depth less than 10 nm\nEntity: XPS analysis depth\n\nQuantity: XPS analysis depth less than 10 nm\nEntity: XPS analysis depth\n\nQuantity: XPS analysis depth less than 10 nm\nEntity: XPS analysis depth\n\nQuantity: XPS analysis depth less than 10 nm\nEntity: XPS analysis depth\n\nQuantity: XPS analysis depth less than 10 nm\nEntity: XPS analysis depth\n\nQuantity: XPS analysis depth less than 10 nm\nEntity: XPS analysis depth\n\nQuantity: XPS analysis depth less than 10 nm\nEntity: XPS analysis depth\n\nQuantity: XPS analysis depth less than 10 nm\nEntity: XPS analysis depth\n\nQuantity: XPS analysis depth less than 10 nm\nEntity:"
+},
+{ "doc": "S0167610513001001-1566.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 2% of the mean wind speed\nUnit: %\nEntity: correction factors\n"
+},
+{ "doc": "S0167610513001001-1618.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: θ=tan−1(w/U)\nUnit: tan−1(w/U)\nEntity: wind speed\n"
+},
+{ "doc": "S0167610513001001-1769.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: ≈ 0–0.5 m s−1\nUnit: m s−1\nEntity: lidar\n\nQuantity: ≈ 0.36 m s−1\nUnit: m s−1\nEntity: error in the lidar-derived wind speeds\n\nQuantity: ≈ 1.05 m s−1\nUnit: m s−1\nEntity: error in the lidar-derived wind speeds\n\nQuantity: ≈ 0.86 m s−1\nUnit: m s−1\nEntity: error in the lidar-derived wind speeds\n"
+},
+{ "doc": "S0167610513001001-858.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 60 min\nUnit: min\nEntity: averaging periods\n"
+},
+{ "doc": "S0167739X12001525-6016.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: Scenario 2.3\nUnit: %\nEntity: reallocation actions\n"
+},
+{ "doc": "S0167880913001229-1323.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 0–10 cm depth\nUnit: cm\nEntity: SOC stock\n"
+},
+{ "doc": "S0168945213001805-4574.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 50%\nUnit: %\nEntity: mortality rate\n\nQuantity: subsequently\nUnit: subsequently\nEntity: survivors\n\nQuantity: bare-root seedlings\nUnit: bare-root seedlings\nEntity: plants\n"
+},
+{ "doc": "S0168945213001805-5396.txt",
+"finish_reason":"token_length",
+"text" : ""
+},
+{ "doc": "S0257897213007573-555.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 1000 °C\nUnit: °C\nEntity: silica tube furnace\n"
+},
+{ "doc": "S0257897213007573-574.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 0.22 nm\nUnit: nm\nEntity: surface roughness of SiC\n\nQuantity: 1.46 nm\nUnit: nm\nEntity: surface roughness of CDC\n\nQuantity: 54.68 nm\n\nUnit: nm\nEntity: surface roughness of dual-layer film\n"
+},
+{ "doc": "S0257897213007573-899.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 1354 cm− 1\nUnit: cm− 1\nEntity: D-band\n"
+},
+{ "doc": "S0257897213007573-959.txt",
+"finish_reason":"stop",
+"text" : " The surface morphology of the dual-layer film is shown in Fig. 4g and h. The surface morphology of the dual-layer film is similar to that of the CVD layer, and the surface roughness is increased to 1.46 nm. The surface morphology of the dual-layer film is similar to that of the CVD layer, and the surface roughness is increased to 1.46 nm.\n\nData:\nQuantity: 0.22 nm\nUnit: nm\nProperty: RMS\nEntity: surface morphology of SiC wafer\n\nQuantity: 0.22 nm\nUnit: nm\nProperty: RMS\nEntity: surface morphology of CDC layer\n\nQuantity: 1.46 nm\nUnit: nm\nProperty: RMS\nEntity: surface morphology of CDC layer\n\nQuantity: 1.46 nm\nUnit: nm\nProperty: RMS\nEntity: surface morphology of dual-layer film\n"
+},
+{ "doc": "S0301010413004096-646.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 5 K\nUnit: K\nEntity: adsorbed H2\n"
+},
+{ "doc": "S0301010413004096-693.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 10 K\nUnit: K\nEntity: in situ neutron powder diffraction\n"
+},
+{ "doc": "S0301010413004096-767.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: ∼2.5 g\nUnit: g\nEntity: sample of desolvated NOTT-300\n\nQuantity: 10−7 mbar\nUnit: mbar\nEntity: degassed\n\nQuantity: 120 °C\nUnit: °C\nEntity: degassed\n\nQuantity: 5 K\nUnit: K\nEntity: temperature\n\nQuantity: 40–50 K\nUnit: K\nEntity: temperature\n\nQuantity: 5 K\nUnit: K\nEntity: temperature\n\nQuantity: 99.5%\n\nUnit: %\nEntity: para-H2\n\nQuantity: volumetrically\nUnit: volumetrically\nEntity: loading of para-H2\n\nQuantity: 40–50 K\nUnit: K\nEntity: temperature\n\nQuantity: 5 K\nUnit: K\nEntity: temperature\n\nQuantity: ∼1% ΔE/E\nUnit: %\nEntity: resolution\n"
+},
+{ "doc": "S0378112713005288-1800.txt",
+"finish_reason":"length",
+"text" : "\n\nData:\nQuantity: 1140 quadrats\nUnit: quadrats\nEntity: sites\n\nQuantity: 1140 quadrats\nUnit: quadrats\nEntity: sites\n\nQuantity: 1140 quadrats\nUnit: quadrats\nEntity: sites\n\nQuantity: 1140 quadrats\nUnit: quadrats\nEntity: sites\n\nQuantity: 1140 quadrats\nUnit: quadrats\nEntity: sites\n\nQuantity: 1140 quadrats\nUnit: quadrats\nEntity: sites\n\nQuantity: 1140 quadrats\nUnit: quadrats\nEntity: sites\n\nQuantity: 1140 quadrats\nUnit: quadrats\nEntity: sites\n\nQuantity: 1140 quadrats\nUnit: quadrats\nEntity: sites\n\nQuantity:"
+},
+{ "doc": "S0378112713005288-1916.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: regeneration density\nUnit: density\nEntity: birch\n\nQuantity: distance from seed source\nUnit: distance\nEntity: birch\n\nQuantity: distance from seed source\nUnit: distance\nEntity: animal-dispersed species\n"
+},
+{ "doc": "S0378383911001669-1203.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: selected magnitudes of depth-averaged velocity\nUnit: m/s\nEntity: uprush\nQuantity: selected magnitudes of depth-averaged velocity\nUnit: m/s\nEntity: backwash before time of maximum backwash velocity\nQuantity: selected magnitudes of depth-averaged velocity\nUnit: m/s\nEntity: late backwash\nQuantity: water depth\nUnit: m\nEntity: uprush\nQuantity: water depth\nUnit: m\nEntity: backwash before time of maximum backwash velocity\nQuantity: water depth\nUnit: m\nEntity: late backwash\n"
+},
+{ "doc": "S0378383911001669-2205.txt",
+"finish_reason":"length",
+"text" : "\n\nData:\nQuantity: x = 0.772 m\nUnit: m\nEntity: 1.3 mm sand-rough beach\n\nQuantity: x = 0.772 m\nUnit: m\nEntity: 5.4 mm gravel-rough beach\n\nQuantity: x = 0.772 m\nUnit: m\nEntity: 1.3 mm sand-rough beach\n\nQuantity: x = 0.772 m\nUnit: m\nEntity: 5.4 mm gravel-rough beach\n\nQuantity: x = 0.772 m\nUnit: m\nEntity: 1.3 mm sand-rough beach\n\nQuantity: x = 0.772 m\nUnit: m\nEntity: 5.4 mm gravel-rough beach\n\nQuantity: x = 0.772 m\nUnit: m\nEntity: 1.3 mm sand-rough beach\n\nQuantity: x = 0.772 m\nUnit: m\nEntity: 5.4 mm gravel-rough beach\n\nQuantity: x = 0.772 m\nUnit: m\nEntity: 1.3 mm sand-rough beach\n\nQuantity: x = 0.772 m\nUnit: m\nEntity: 5.4 mm gravel-rough beach\n\nQuantity: x = 0.772 m\nUnit: m\nEntity: 1.3 mm sand-rough beach"
+},
+{ "doc": "S0378383912000130-1041.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 1.5 mm\nUnit: mm\nEntity: beach\n\nQuantity: 8.5 mm\nUnit: mm\nEntity: beach\n"
+},
+{ "doc": "S0378383912000130-1090.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 8.5 mm\nUnit: mm\nEntity: beach\n"
+},
+{ "doc": "S0378383912000130-3726.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 8.5 mm beach\nEntity: numerical predictions\n"
+},
+]}

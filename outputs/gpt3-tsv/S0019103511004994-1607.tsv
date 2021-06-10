@@ -1,0 +1,11 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0019103511004994-1607	1	Quantity	183	188	1	50 km	{ "unit": "km"}
+S0019103511004994-1607	1	MeasuredEntity	158	174	2	minimum distance	{"HasQuantity":"1"}
+S0019103511004994-1607	2	Quantity	482	494	3	linear scale	
+S0019103511004994-1607	2	MeasuredEntity	459	476	4	upper four panels	{"HasQuantity":"3"}
+S0019103511004994-1607	3	Quantity	482	494	5	linear scale	
+S0019103511004994-1607	3	MeasuredEntity	500	516	6	lower two panels	{"HasQuantity":"5"}
+S0019103511004994-1607	4	Quantity	554	558	7	115°	{ "unit": "°"}
+S0019103511004994-1607	4	MeasuredEntity	535	552	8	local pitch angle	{"HasQuantity":"7"}
+S0019103511004994-1607	5	Quantity	580	583	9	75°	{ "unit": "°"}
+S0019103511004994-1607	5	MeasuredEntity	643	696	10	azimuthal component of the measured magnetic field Bϕ	{"HasQuantity":"9"}

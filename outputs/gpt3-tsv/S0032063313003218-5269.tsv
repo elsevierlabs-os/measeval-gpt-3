@@ -1,0 +1,7 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0032063313003218-5269	1	Quantity	341	350	1	67 mW m−2	{ "unit": "mW m−2"}
+S0032063313003218-5269	1	MeasuredEntity	293	325	2	ion drag and Joule heating rates	{"HasQuantity":"1"}
+S0032063313003218-5269	2	Quantity	371	381	3	277 mW m−2	{ "unit": "mW m−2"}
+S0032063313003218-5269	2	MeasuredEntity	272	325	4	combined estimate of ion drag and Joule heating rates	{"HasQuantity":"3"}
+S0032063313003218-5269	3	Quantity	417	425	5	doubling	{ "unit": "doubling"}
+S0032063313003218-5269	4	Quantity	681	684	6	20%	

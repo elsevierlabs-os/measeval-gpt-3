@@ -1,0 +1,3 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0378383912000130-994	1	Quantity	186	205	1	vertical filtration	
+S0378383912000130-994	1	MeasuredEntity	37	65	2	confined region of the beach	{"HasQuantity":"1"}

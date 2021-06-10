@@ -1,0 +1,21 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0032386113005454-2886	1	Quantity	89	133	1	localised shear-banding of the epoxy polymer	{ "unit": "localised shear-banding"}
+S0032386113005454-2886	1	MeasuredEntity	4	21	2	toughening events	{"HasQuantity":"1"}
+S0032386113005454-2886	2	Quantity	165	207	3	internal cavitation of the S-CSR particles	{ "unit": "internal cavitation"}
+S0032386113005454-2886	2	MeasuredEntity	4	21	4	toughening events	{"HasQuantity":"3"}
+S0032386113005454-2886	3	Quantity	340	365	5	relatively high toughness	{ "unit": "relatively high toughness"}
+S0032386113005454-2886	3	MeasuredEntity	356	365	6	toughness	{"HasQuantity":"5"}
+S0032386113005454-2886	4	Quantity	380	413	7	the S-CSR-modified epoxy polymers	{ "unit": "the S-CSR-modified epoxy polymers"}
+S0032386113005454-2886	4	MeasuredEntity	356	365	8	toughness	{"HasQuantity":"7"}
+S0032386113005454-2886	5	Quantity	188	207	9	the S-CSR particles	{ "unit": "the S-CSR particles"}
+S0032386113005454-2886	5	MeasuredEntity	356	365	10	toughness	{"HasQuantity":"9"}
+S0032386113005454-2886	6	Quantity	490	540	11	the cavitational resistance of the S-CSR particles	{ "unit": "the cavitational resistance of the S-CSR particles"}
+S0032386113005454-2886	6	MeasuredEntity	356	365	12	toughness	{"HasQuantity":"11"}
+S0032386113005454-2886	8	Quantity	692	722	13	the deformation of the polymer	{ "unit": "the deformation of the polymer"}
+S0032386113005454-2886	8	MeasuredEntity	356	365	14	toughness	{"HasQuantity":"13"}
+S0032386113005454-2886	9	Quantity	735	790	15	the size of the deformation zone ahead of the crack tip	{ "unit": "the size of the deformation zone ahead of the crack tip"}
+S0032386113005454-2886	9	MeasuredEntity	356	365	16	toughness	{"HasQuantity":"15"}
+S0032386113005454-2886	11	Quantity	1056	1075	17	the fracture energy	{ "unit": "the fracture energy"}
+S0032386113005454-2886	11	MeasuredEntity	356	365	18	toughness	{"HasQuantity":"17"}
+S0032386113005454-2886	12	Quantity	1097	1117	19	the test temperature	{ "unit": "the test temperature"}
+S0032386113005454-2886	12	MeasuredEntity	356	365	20	toughness	{"HasQuantity":"19"}

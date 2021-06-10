@@ -1,0 +1,28 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0019103512003533-5300	1	Quantity	164	182	1	virtually constant	{ "unit": "K"}
+S0019103512003533-5300	1	MeasuredEntity	4	15	2	temperature	{"HasQuantity":"1"}
+S0019103512003533-5300	2	Quantity	282	287	3	550 K	{ "unit": "K"}
+S0019103512003533-5300	2	MeasuredEntity	4	15	4	temperature	{"HasQuantity":"3"}
+S0019103512003533-5300	3	Quantity	291	296	5	850 K	{ "unit": "K"}
+S0019103512003533-5300	3	MeasuredEntity	4	15	6	temperature	{"HasQuantity":"5"}
+S0019103512003533-5300	4	Quantity	281	287	7	∼550 K	{ "unit": "K"}
+S0019103512003533-5300	4	MeasuredEntity	4	15	8	temperature	{"HasQuantity":"7"}
+S0019103512003533-5300	6	Quantity	281	287	9	∼550 K	{ "unit": "K"}
+S0019103512003533-5300	6	MeasuredEntity	4	15	10	temperature	{"HasQuantity":"9"}
+S0019103512003533-5300	8	Quantity	281	287	11	∼550 K	{ "unit": "K"}
+S0019103512003533-5300	8	MeasuredEntity	4	15	12	temperature	{"HasQuantity":"11"}
+S0019103512003533-5300	10	Quantity	281	287	13	∼550 K	{ "unit": "K"}
+S0019103512003533-5300	10	MeasuredEntity	4	15	14	temperature	{"HasQuantity":"13"}
+S0019103512003533-5300	12	Quantity	281	287	15	∼550 K	{ "unit": "K"}
+S0019103512003533-5300	12	MeasuredEntity	4	15	16	temperature	{"HasQuantity":"15"}
+S0019103512003533-5300	14	Quantity	281	287	17	∼550 K	{ "unit": "K"}
+S0019103512003533-5300	14	MeasuredEntity	4	15	18	temperature	{"HasQuantity":"17"}
+S0019103512003533-5300	16	Quantity	281	287	19	∼550 K	{ "unit": "K"}
+S0019103512003533-5300	16	MeasuredEntity	4	15	20	temperature	{"HasQuantity":"19"}
+S0019103512003533-5300	18	Quantity	281	287	21	∼550 K	{ "unit": "K"}
+S0019103512003533-5300	18	MeasuredEntity	4	15	22	temperature	{"HasQuantity":"21"}
+S0019103512003533-5300	20	Quantity	281	287	23	∼550 K	{ "unit": "K"}
+S0019103512003533-5300	20	MeasuredEntity	4	15	24	temperature	{"HasQuantity":"23"}
+S0019103512003533-5300	22	Quantity	281	287	25	∼550 K	{ "unit": "K"}
+S0019103512003533-5300	22	MeasuredEntity	4	15	26	temperature	{"HasQuantity":"25"}
+S0019103512003533-5300	24	Quantity	281	282	27	∼	

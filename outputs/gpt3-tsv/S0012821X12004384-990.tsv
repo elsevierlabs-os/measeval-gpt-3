@@ -1,0 +1,14 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0012821X12004384-990	1	Quantity	100	128	1	axis 1=39% of total variance	{ "unit": "%"}
+S0012821X12004384-990	2	Quantity	130	158	2	axis 2=17% of total variance	{ "unit": "%"}
+S0012821X12004384-990	3	Quantity	213	241	3	axis 1=31% of total variance	{ "unit": "%"}
+S0012821X12004384-990	4	Quantity	243	271	4	axis 2=11% of total variance	{ "unit": "%"}
+S0012821X12004384-990	6	Quantity	309	315	5	depths	{ "unit": "depths"}
+S0012821X12004384-990	8	Quantity	431	450	6	palynomorph species	{ "unit": "palynomorph species"}
+S0012821X12004384-990	8	MeasuredEntity	277	290	7	core 22/10a-4	{"HasQuantity":"6"}
+S0012821X12004384-990	9	Quantity	277	290	8	core 22/10a-4	{ "unit": "core 22/10a-4"}
+S0012821X12004384-990	12	Quantity	431	450	9	palynomorph species	{ "unit": "palynomorph species"}
+S0012821X12004384-990	12	MeasuredEntity	498	527	10	pre-CIE peaks in Apectodinium	{"HasQuantity":"9"}
+S0012821X12004384-990	13	Quantity	498	527	11	pre-CIE peaks in Apectodinium	{ "unit": "pre-CIE peaks in Apectodinium"}
+S0012821X12004384-990	13	MeasuredEntity	532	539	12	δ13CTOC	{"HasQuantity":"11"}
+S0012821X12004384-990	14	Quantity	532	539	13	δ13CTOC	

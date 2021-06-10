@@ -1,0 +1,101 @@
+{ "results": [{ "doc": "S0960148113005727-1451.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: gradual downwards slope\nUnit: %\nEntity: bulk of weather-corrected load factor observations\n\nQuantity: isolated periods of very low output\nUnit: %\nEntity: downtime\n\nQuantity: 12%\nUnit: %\nEntity: load factor\n\nQuantity: 2%\nUnit: %\nEntity: load factor\n\nQuantity: 12%\nUnit: %\nEntity: load factor\n\nQuantity: 2%\nUnit: %\nEntity: load factor\n\nQuantity: 9\nEntity: turbines\n\nQuantity: 1\nEntity: turbine\n"
+},
+{ "doc": "S0960148113005727-1466.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 4.99 TWh\nUnit: TWh\nEntity: cumulative lifetime output of a 100 MW wind farm\n\nQuantity: 4.37 TWh\nUnit: TWh\nEntity: lifetime output of a 100 MW wind farm\n\nQuantity: 12.5%\n\nUnit: %\nEntity: fall\n\nQuantity: 10%\nUnit: %\nEntity: discount rate\n\nQuantity: £90\nUnit: £\nEntity: levelised cost of electricity\n\nQuantity: £98\nUnit: £\nEntity: levelised cost of electricity\n"
+},
+{ "doc": "S0960148113005727-739.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: Histograms summarising the vintage of UK wind farms in our dataset\nUnit: years\nEntity: UK wind farms\n"
+},
+{ "doc": "S0960148113005727-855.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 1.6 ± 0.2%\nUnit: %\nEntity: load factors\n\nQuantity: 28.5%\nUnit: %\nEntity: load factors\n\nQuantity: 21%\nUnit: %\nEntity: load factors\n\nQuantity: 12%\nUnit: %\nEntity: levelised cost of electricity\n\nQuantity: 9%\nUnit: %\nEntity: levelised cost of electricity\n"
+},
+{ "doc": "S0967064513002774-1376.txt",
+"finish_reason":"length",
+"text" : "\n\nData:\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity: 220 mL\nUnit: mL\nEntity: incubation chambers\n\nQuantity:"
+},
+{ "doc": "S1359645413009816-1712.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 1.25 to 50 K min-1\nUnit: K min-1\nEntity: heating rates\n"
+},
+{ "doc": "S1359645413009816-2227.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 14 samples\nUnit: samples\nEntity: DSC measurements\n"
+},
+{ "doc": "S175058361300203X-1240.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 260 kg/m3\nUnit: kg/m3\nEntity: CO2 density\n"
+},
+{ "doc": "S1750583613004192-1126.txt",
+"finish_reason":"length",
+"text" : "\n\nData:\nQuantity: approximately 1 Mt/yr\nUnit: Mt/yr\nEntity: CO2 injection\n\nQuantity: approximately 1 km\nUnit: km\nEntity: Utsira Formation\n\nQuantity: approximately 200 km\nUnit: km\nEntity: offshore Norway\n\nQuantity: approximately 3 years\nUnit: years\nEntity: time to reach the top seal\n\nQuantity: approximately 9 thin layers\nUnit: layers\nEntity: CO2 layers\n\nQuantity: approximately 9 thin layers\nUnit: layers\nEntity: CO2 layers\n\nQuantity: approximately 9 thin layers\nUnit: layers\nEntity: CO2 layers\n\nQuantity: approximately 9 thin layers\nUnit: layers\nEntity: CO2 layers\n\nQuantity: approximately 9 thin layers\nUnit: layers\nEntity: CO2 layers\n\nQuantity: approximately 9 thin layers\nUnit: layers\nEntity: CO"
+},
+{ "doc": "S1750583613004192-1689.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 1016 cm−3\nUnit: cm−3\nEntity: injection level range\n"
+},
+{ "doc": "S1873506113001116-1456.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 20 passages\nUnit: passages\nEntity: hiPSCs\n\nQuantity: 5%\nUnit: %\nEntity: frequency\n\nQuantity: 47, XXY\nUnit: XXY\nEntity: karyotype\n"
+},
+{ "doc": "S1873506114000075-1104.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 10%\nUnit: %\nProperty: neutral buffered formalin solution\nEntity: fixation\n\nQuantity: 10%\nUnit: %\nProperty: ALP substrate\nEntity: 1-Step NBT/BCIP\n"
+},
+{ "doc": "S1873506114000075-665.txt",
+"finish_reason":"length",
+"text" : " (E) Immunostaining of established clones with hepatocyte marker AFP (green). Nuclei were stained with DAPI (blue). BF, bright field. Scale bar, 100 μm. (F) Immunostaining of established clones with hepatocyte marker ALB (green). Nuclei were stained with DAPI (blue). BF, bright field. Scale bar, 100 μm. (G) Immunostaining of established clones with hepatocyte marker CK19 (green). Nuclei were stained with DAPI (blue). BF, bright field. Scale bar, 100 μm. (H) Immunostaining of established clones with hepatocyte marker CK18 (green). Nuclei were stained with DAPI (blue). BF, bright field. Scale bar, 100 μm. (I) Immunostaining of established clones with hepatocyte marker CK7 (green). Nuclei were stained with DAPI (blue). BF, bright field. Scale bar, 100 μm. (J) Immunostaining of established clones with hepatocyte marker CK8 (green). Nuclei were stained with DAPI (blue). BF, bright field. Scale bar, 100 μm. (K) Immunostaining of established clones with hepatocyte marker CK19 (green). Nuclei were stained with DAPI (blue). BF, bright field. Scale bar, 100 μm. (L) Immunostaining of established clones with hepatocyte marker CK18 (green). Nuclei were stained with DAPI (blue). BF, bright field. Scale bar, 100 μm. (M) Immunostaining of established clones with hepatocyte marker CK7 (green). Nuclei were stained"
+},
+{ "doc": "S2211124712002884-620.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: control iPSC line 20, sporadic iPSC line 9, and PGRN S116X iPSC line 26\nEntity: iPSC lines\n"
+},
+{ "doc": "S2211124713006475-741.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 50 μm\nUnit: μm\nEntity: scale bars\n"
+},
+{ "doc": "S2213158213000582-1041.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: bilateral 50 and 100 ms STG activity\nUnit: ms\nEntity: bilateral 50 and 100 ms STG activity\n\nQuantity: HC\nUnit: HC\nEntity: HC\n\nQuantity: SZ\nUnit: SZ\nEntity: SZ\n\nQuantity: left and right inferior frontal gyrus activity\nUnit: left and right\nEntity: inferior frontal gyrus activity\n\nQuantity: right superior frontal gyrus activity\nUnit: right\nEntity: superior frontal gyrus activity\n\nQuantity: left supramarginal gyrus activity\nUnit: left\nEntity: supramarginal gyrus activity\n"
+},
+{ "doc": "S2213158213000582-1050.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: whole-brain measures\nUnit: ms\nEntity: encoding\n\nQuantity: superior temporal gyrus\nUnit: STG auditory areas\nEntity: auditory areas\n\nQuantity: frontal and supramarginal gyrus areas\nEntity: frontal and supramarginal gyrus areas\n"
+},
+{ "doc": "S2213158213000582-1183.txt",
+"finish_reason":"length",
+"text" : "\n\nData:\nQuantity: 100 ms auditory abnormalities\nEntity: individuals with SZ\n\nQuantity: 100 ms auditory abnormalities\nEntity: individuals with SZ\n\nQuantity: 100 ms auditory abnormalities\nEntity: individuals with SZ\n\nQuantity: 100 ms auditory abnormalities\nEntity: individuals with SZ\n\nQuantity: 100 ms auditory abnormalities\nEntity: individuals with SZ\n\nQuantity: 100 ms auditory abnormalities\nEntity: individuals with SZ\n\nQuantity: 100 ms auditory abnormalities\nEntity: individuals with SZ\n\nQuantity: 100 ms auditory abnormalities\nEntity: individuals with SZ\n\nQuantity: 100 ms auditory abnormalities\nEntity: individuals with SZ\n\nQuantity: 100 ms auditory abnormalities\nEntity: individuals with SZ\n\nQuantity: 100 ms auditory abnormalities\nEntity: individuals with SZ\n\nQuantity: 100 ms auditory abnormalities\nEntity: individuals with SZ\n\nQuantity: 100 ms auditory abnormalities\nEntity: individuals with SZ\n\nQuantity: 100 ms auditory abnormalities\nEntity: individuals with SZ\n\nQuantity: 100 ms auditory abnormalities\nEntity: individuals with SZ\n\nQuantity: 100 ms auditory abnormalities\nEntity: individuals with SZ\n\nQuantity: 100 ms auditory"
+},
+{ "doc": "S2213158213000582-1279.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 3 ms\nUnit: ms\nEntity: binaural clicks\n\nQuantity: 500 ms\nUnit: ms\nProperty: inter-stimulus interval\nEntity: paired-click paradigm\n\nQuantity: 7–11 s\nUnit: s\nProperty: inter-trial interval jitter\nEntity: averaging 9 s\n"
+},
+{ "doc": "S2213158213000582-1309.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 500 ms pre-stimulus to 500 ms post-stimulus\nUnit: ms\nEntity: S1 epochs\n"
+},
+{ "doc": "S2213158213000582-1390.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 50 ms\nUnit: ms\nEntity: Group contrast maps\n"
+},
+{ "doc": "S2213158213000582-1398.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 100 ms\nUnit: ms\nEntity: group contrast maps\n"
+},
+{ "doc": "S2213158213000582-1410.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 50 ms\nUnit: ms\nEntity: left 50 ms\n\nQuantity: 100 ms\nUnit: ms\nEntity: bilateral 100 ms\n\nQuantity: bilaterally\nUnit: \nEntity: 50 ms\n\nQuantity: bilaterally\nUnit: \nEntity: 100 ms\n"
+},
+{ "doc": "S2213158213000582-1424.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: frontal activity\nEntity: present results\n"
+},
+{ "doc": "S2213158213000582-1469.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: chronic patients\nUnit: patients\nEntity: subjects\n\nQuantity: medication\nUnit: medication\nEntity: group differences\n"
+},
+]}

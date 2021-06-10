@@ -1,0 +1,7 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S2213671113001306-1385	1	Quantity	29	37	1	days 3–5	{ "unit": "days"}
+S2213671113001306-1385	1	MeasuredProperty	3	27	2	first postoperative exam	{"HasQuantity":"1"}
+S2213671113001306-1385	1	MeasuredEntity	42	63	3	white retinal opacity	{"HasProperty":"2"}
+S2213671113001306-1385	2	Quantity	29	33	4	days	{ "unit": "days"}
+S2213671113001306-1385	2	MeasuredProperty	293	308	5	follow-up exams	{"HasQuantity":"4"}
+S2213671113001306-1385	2	MeasuredEntity	359	398	6	steep edge around the implant periphery	{"HasProperty":"5"}

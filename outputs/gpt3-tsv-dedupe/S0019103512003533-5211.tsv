@@ -1,0 +1,4 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0019103512003533-5211	1	Quantity	451	478	1	10 keV electron energy flux	{ "unit": "keV"}
+S0019103512003533-5211	1	MeasuredEntity	365	383	2	simulations R1–R18	{"HasQuantity":"1"}
+S0019103512003533-5211	16	Quantity	332	334	31	10	

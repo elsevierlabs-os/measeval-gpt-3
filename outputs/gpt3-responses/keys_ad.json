@@ -1,0 +1,101 @@
+{ "results": [{ "doc": "S0378383912000130-3739.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: approximately constant gradient\nUnit: gradient\nEntity: experimental results\n\nQuantity: approximately steep increase\nUnit: steep increase\nEntity: simulation results\n\nQuantity: approximately gradual decline\nUnit: gradual decline\nEntity: simulation results\n\nQuantity: initial stages of infiltration\nUnit: initial stages of infiltration\nEntity: experimental error\n"
+},
+{ "doc": "S0378383912000130-3891.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 1.5 mm\nUnit: mm\nEntity: sediment\n\nQuantity: 8.5 mm\nUnit: mm\nEntity: sediment\n\nQuantity: numerical predictions\nUnit: numerical predictions\nEntity: numerical predictions\n"
+},
+{ "doc": "S0378383912000130-994.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: vertical filtration\nEntity: confined region of the beach\n"
+},
+{ "doc": "S0378383913001567-6892.txt",
+"finish_reason":"length",
+"text" : " The initial velocity field is a uniform flow with a velocity of U = 0.5 m/s. The inflow velocity is zero. The initial temperature field is uniform with a temperature of T = 20 °C. The initial salinity field is uniform with a salinity of S = 35. The initial concentration field is uniform with a concentration of C = 0.1 g/kg. The initial pressure field is uniform with a pressure of p = 1 bar. The initial density field is uniform with a density of ρ = 1 g/cm. The initial velocity field is a uniform flow with a velocity of U = 0.5 m/s. The inflow velocity is zero. The initial temperature field is uniform with a temperature of T = 20 °C. The initial salinity field is uniform with a salinity of S = 35. The initial concentration field is uniform with a concentration of C = 0.1 g/kg. The initial pressure field is uniform with a pressure of p = 1 bar. The initial density field is uniform with a density of ρ = 1 g/cm.\n\nData:\nQuantity: 40 m\nUnit: m\nEntity: channel\n\nQuantity: 90 m\nUnit: m\nEntity: channel\n\nQuantity: 5°\nUnit: °\nProperty: angle β\nEntity: wall constriction\n\nQuantity: 121 × 53\nUnit: × 53\nEntity: regular curvilinear grid\n\nQuantity: highly distorted grid\nUnit: × 53\nEntity: distorted grid\n\nQuantity: 1 m\nUnit: m\nProperty: water depth\nEntity: h\n\nQuantity: 2.5\n\nUnit: Froude number\nEntity"
+},
+{ "doc": "S0378383913001567-7073.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: ∆t/i\nUnit: m\nEntity: time discretisation\n"
+},
+{ "doc": "S037842901300244X-1427.txt",
+"finish_reason":"length",
+"text" : "\n\nData:\nQuantity: 76%\nUnit: %\nProperty: heritability\nEntity: ASNPC\n\nQuantity: 84%\nUnit: %\nProperty: heritability\nEntity: ASNPC\n\nQuantity: 34%\nUnit: %\nProperty: heritability\nEntity: ASNPC\n\nQuantity: 76%\nUnit: %\nProperty: heritability\nEntity: ASNPC\n\nQuantity: 34%\nUnit: %\nProperty: heritability\nEntity: ASNPC\n\nQuantity: 84%\nUnit: %\nProperty: heritability\nEntity: ASNPC\n\nQuantity: Sadoré\nUnit: %\nProperty: heritability\nEntity: ASNPC\n\nQuantity: Cinzana\nUnit: %\nProperty: heritability\nEntity: ASNPC\n\nQuantity: combined across locations\nUnit: %\nProperty:"
+},
+{ "doc": "S037842901300244X-1654.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: flowering time (FLO) in days after sowing (das)\nUnit: das\nEntity: flowering time\n\nQuantity: number of productive panicles\nUnit: panicles\nEntity: number of productive panicles\n\nQuantity: number of hills per plot with downy mildew\nUnit: hills\nEntity: number of hills\n\nQuantity: downy mildew (DM) incidence (in percentage)\nUnit: %\nEntity: downy mildew (DM) incidence\n\nQuantity: number of emerged Striga plants\nUnit: plants\nEntity: number of emerged Striga plants\n\nQuantity: Area under Striga Number Progress Curve (ASNPC)\n\nUnit: ASNPC\nEntity: Area under Striga Number Progress Curve\n"
+},
+{ "doc": "S037842901300244X-1801.txt",
+"finish_reason":"length",
+"text" : "\n\nData:\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S1\nEntity: progenies\n\nQuantity: S"
+},
+{ "doc": "S0925443913001385-1319.txt",
+"finish_reason":"token_length",
+"text" : ""
+},
+{ "doc": "S0925443913001385-1526.txt",
+"finish_reason":"length",
+"text" : " The probes were purified using the QIAquick PCR purification kit (Qiagen) and quantified using the NanoDrop ND-1000 spectrophotometer (NanoDrop Technologies). The membranes were hybridized overnight at 65 °C in ExpressHyb hybridization solution (Clontech) in a final volume of 20 μl. The membranes were washed twice for 15 min at 65 °C in 2× SSC, 0.1% SDS, and twice for 15 min at 65 °C in 0.1× SSC, 0.1% SDS. The membranes were exposed to a phosphorimager screen for 24 h at −80 °C.\n\nData:\nQuantity: 5 μg\nUnit: μg\nEntity: RNA\n\nQuantity: 1.2% (w/v)\nUnit: % (w/v)\nEntity: agarose\n\nQuantity: GenescreenPlus membrane\nUnit: membrane\nEntity: GenescreenPlus membrane\n\nQuantity: random hexamers\nUnit: hexamers\n\nEntity: random hexamers\n\nQuantity: PCR-generated templates\nUnit: templates\nEntity: PCR-generated templates\n\nQuantity: the relevant genes\nUnit: genes\nEntity: the relevant genes\n\nQuantity: ExpressHyb hybridization solution\nUnit: solution\nEntity: ExpressHyb hybridization solution\n\nQuantity: 20 μl\nUnit: μl\nEntity: 20 μl\n\nQuantity: 2× SSC, 0.1% SDS\nUnit: SSC, 0.1% SDS\nEntity: 2× SSC, 0.1% SDS\n\nQuantity: 0."
+},
+{ "doc": "S0925443913001385-1621.txt",
+"finish_reason":"length",
+"text" : "\n\nData:\nQuantity: 27.5%\nUnit: %\nEntity: amino acid sequence\n\nQuantity: 107 to end\nUnit: end\nEntity: C-terminal domain (CTD)\n\nQuantity: 50\nUnit: %\nEntity: conserved in evolution\n\nQuantity: 51,52\nUnit: %\nEntity: EF-Tu and EF-G\n\nQuantity: 52,53\nUnit: %\nEntity: EF-Tu and EF-G\n\nQuantity: 54\nUnit: %\nEntity: crucial for translation\n\nQuantity: 55\nUnit: %\nEntity: tertiary contacts\n\nQuantity: 56\nUnit: %\nEntity: perturbing packing interactions\n\nQuantity: 57\nUnit: %\nEntity: predicted to have a higher affinity for the ribosome\n\nQuantity: 58\nUnit: %\nEntity: rate and accuracy of mitochondrial translation\n\nQuantity: 59\nUnit: %\nEntity: substitution can therefore have profound energetic effects\n\nQuantity: 60\nUnit: %\nEntity: Alanine is one of the best helix forming residues\n\nQuantity: 61\nUnit: %\nEntity: substitutions can therefore have profound energetic effects\n\nQuantity:"
+},
+{ "doc": "S0925443913001385-1683.txt",
+"finish_reason":"token_length",
+"text" : ""
+},
+{ "doc": "S0925443913001385-849.txt",
+"finish_reason":"length",
+"text" : " C. MRPL12 was immunoprecipitated from mitochondrial lysates (835 μg) prepared from patient (P) and control (C) fibroblasts. Recovered MRPL12 and co-immunoprecipitating MRPs were analyzed by western blot (antibodies as previously described).\n\nData:\nQuantity: 2, 5 and 10 μg\nUnit: μg\nEntity: total RNAs\n\nQuantity: 835 μg\nUnit: μg\nEntity: mitochondrial lysates\n\nQuantity: 2, 5 and 10 μg\nUnit: μg\nEntity: MRPL12\n\nQuantity: 835 μg\nUnit: μg\nEntity: mitochondrial lysates\n\nQuantity: 2, 5 and 10 μg\nUnit: μg\n\nEntity: MRPL12\n\nQuantity: 835 μg\nUnit: μg\nEntity: mitochondrial lysates\n\nQuantity: 2, 5 and 10 μg\nUnit: μg\nEntity: MRPL12\n\nQuantity: 835 μg\nUnit: μg\nEntity: mitochondrial lysates\n\nQuantity: 2, 5 and 10 μg\nUnit: μg\nEntity: MRPL12\n\nQuantity: 835 μg\nUnit: μg\nEntity: mitochondrial lysates\n\nQuantity: 2, 5 and 10 μg\nUnit: μg\nEntity: MRPL12\n\nQuantity: 835 μg\nUnit: μg\nEntity: mitochondrial lysates\n\nQuantity: 2, 5 and 10 μg\nUnit: μg\nEntity: MRPL12\n\nQuantity: 835 μg\nUnit: μg\nEntity: mitochondrial lysates\n\nQuantity: 2, 5 and 10 μg\nUnit: μg"
+},
+{ "doc": "S0927024813001955-812.txt",
+"finish_reason":"stop",
+"text" : " The resulting solution was then filtered through a 0.45 μm filter and stored in a dark bottle at 4 °C.\n\nData:\nQuantity: 41.73 mg/mL\nUnit: mg/mL\nEntity: P3HT and PCBM\n"
+},
+{ "doc": "S0927024813002961-1085.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 25 °C\nUnit: °C\nEntity: STC\n\nQuantity: 1000 W/m2\nUnit: W/m2\nEntity: irradiance\n\nQuantity: kWh/kWp\nUnit: kWh/kWp\nEntity: specific yield\n"
+},
+{ "doc": "S0927024813002961-1322.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: ±3%\nUnit: %\nEntity: CIGS\n\nQuantity: +10% to −20%\nUnit: %\nEntity: a-Si\n\nQuantity: ±3%\nUnit: %\nEntity: c-Si\n"
+},
+{ "doc": "S0927024813002961-1357.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 0.65%/a\nUnit: %/a\nEntity: degradation\n"
+},
+{ "doc": "S0927024813003036-1981.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 99.95% purity\nUnit: %\nEntity: Testbourne Limited, UK\n\nQuantity: 798 °C\nUnit: °C\nEntity: furnace\n\nQuantity: <10 s\nUnit: s\nEntity: cooling\n"
+},
+{ "doc": "S0950705113001895-23682.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 6 data sets\nUnit: data sets\nEntity: \n"
+},
+{ "doc": "S095741741101342X-2642.txt",
+"finish_reason":"stop",
+"text" : "\nData:\nQuantity: stacking approach\nEntity: classification\n\nQuantity: meta-learner\nEntity: model\n\nQuantity: much larger data sets\nEntity: variety of class distributions\n\nQuantity: effect of not only the percentage class distribution but also the effect of the actual number of observations in a data set\nEntity: effect of\n"
+},
+{ "doc": "S0960148113002735-1289.txt",
+"finish_reason":"stop",
+"text" : " The turbine is designed to operate at wind speeds of 6 m/s and above. The turbine is designed to be installed on a tower with a height of 50 m. The tower is designed to withstand wind speeds of up to 12 m/s. The tower is designed to be installed on a foundation with a depth of 1.5 m. The foundation is designed to withstand wind speeds of up to 12 m/s.\n\nData:\nQuantity: 200 kW\nUnit: kW\nEntity: turbine\n\nQuantity: 24 m\nUnit: m\nProperty: turbine height\nEntity: vertical axis wind turbine\n\nQuantity: 26 m\nUnit: m\nProperty: diameter\nEntity: vertical axis wind turbine\n\nQuantity: 26 m\nUnit: m\nProperty: diameter\nEntity: vertical axis wind turbine\n\nQuantity: 6 m/s\nUnit: m/s\nProperty: wind speed\nEntity: vertical axis wind turbine\n\nQuantity: 12 m/s\nUnit: m/s\nProperty: wind speed\nEntity: tower\n\nQuantity: 50 m\nUnit: m\nProperty: tower height\nEntity: tower\n\nQuantity: 12 m/s\nUnit: m/s\nProperty: wind speed\nEntity: foundation\n\nQuantity: 1.5 m\n\nUnit: m\nProperty: depth\nEntity: foundation\n\nQuantity: 12 m/s\nUnit: m/s\nProperty: wind speed\nEntity: foundation\n\n"
+},
+{ "doc": "S0960148113002735-1989.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 1800 s\nUnit: s\nProperty: mutual topology\nEntity: turbine 4\n"
+},
+{ "doc": "S0960148113002735-2182.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: square configuration\nEntity: mutual topology\n\nQuantity: separate topology\nEntity: separate topology\n\nQuantity: 1050 s\nUnit: s\nEntity: increase in rotational velocity for turbines 1 and 3\n\nQuantity: 1170 s\nUnit: s\nEntity: decrease in rotational velocity for turbine 3\n"
+},
+{ "doc": "S0960148113004989-2841.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 640 m × 320 m\nUnit: m\nEntity: computational domain Ω\n"
+},
+{ "doc": "S0960148113005727-1203.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 2–5%\nUnit: %\nProperty: output\nEntity: turbine\n\nQuantity: 1%\nUnit: %\nProperty: output\nEntity: turbine\n\nQuantity: 3%\nUnit: %\nProperty: turbulence intensity\nEntity: turbine\n\nQuantity: 1%\nUnit: %\nProperty: turbulence intensity\nEntity: turbine\n"
+},
+]}

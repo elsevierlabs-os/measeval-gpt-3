@@ -1,0 +1,11 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S2213158213000582-1041	1	Quantity	82	118	1	bilateral 50 and 100 ms STG activity	{ "unit": "ms"}
+S2213158213000582-1041	1	MeasuredEntity	82	118	2	bilateral 50 and 100 ms STG activity	{"HasQuantity":"1"}
+S2213158213000582-1041	2	Quantity	66	68	3	HC	{ "unit": "HC"}
+S2213158213000582-1041	2	MeasuredEntity	66	68	4	HC	{"HasQuantity":"3"}
+S2213158213000582-1041	3	Quantity	124	126	5	SZ	{ "unit": "SZ"}
+S2213158213000582-1041	3	MeasuredEntity	124	126	6	SZ	{"HasQuantity":"5"}
+S2213158213000582-1041	4	Quantity	257	303	7	left and right inferior frontal gyrus activity	{ "unit": "left and right"}
+S2213158213000582-1041	4	MeasuredEntity	272	303	8	inferior frontal gyrus activity	{"HasQuantity":"7"}
+S2213158213000582-1041	6	Quantity	362	395	9	left supramarginal gyrus activity	{ "unit": "left"}
+S2213158213000582-1041	6	MeasuredEntity	367	395	10	supramarginal gyrus activity	{"HasQuantity":"9"}

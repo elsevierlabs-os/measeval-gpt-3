@@ -1,0 +1,7 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0032063312003054-2458	1	Quantity	190	195	1	43.0%	{ "unit": "%"}
+S0032063312003054-2458	1	MeasuredEntity	35	45	2	MEX orbits	{"HasQuantity":"1"}
+S0032063312003054-2458	2	Quantity	336	341	3	29.8%	{ "unit": "%"}
+S0032063312003054-2458	2	MeasuredEntity	153	186	4	electron precipitation signatures	{"HasQuantity":"3"}
+S0032063312003054-2458	3	Quantity	580	584	5	3.4%	{ "unit": "%"}
+S0032063312003054-2458	3	MeasuredEntity	512	528	6	peaked electrons	{"HasQuantity":"5"}

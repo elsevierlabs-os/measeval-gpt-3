@@ -1,0 +1,9 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0022459611006116-987	1	Quantity	217	242	1	cubic (space group: Pm3m)	{ "unit": "space group"}
+S0022459611006116-987	1	MeasuredEntity	38	44	2	Mg3NF3	{"HasQuantity":"1"}
+S0022459611006116-987	2	Quantity	331	364	3	tetragonal (space group: I41/amd)	{ "unit": "space group"}
+S0022459611006116-987	2	MeasuredEntity	49	54	4	Mg2NF	{"HasQuantity":"3"}
+S0022459611006116-987	3	Quantity	426	443	5	essentially ionic	{ "unit": "ionic"}
+S0022459611006116-987	3	MeasuredEntity	19	36	6	nitride fluorides	{"HasQuantity":"5"}
+S0022459611006116-987	4	Quantity	562	608	7	temperature independent paramagnetic behaviour	{ "unit": "temperature independent paramagnetic behaviour"}
+S0022459611006116-987	4	MeasuredEntity	19	36	8	nitride fluorides	{"HasQuantity":"7"}

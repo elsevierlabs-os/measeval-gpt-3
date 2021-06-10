@@ -1,0 +1,11 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0960148113005727-855	1	Quantity	174	184	1	1.6 ± 0.2%	{ "unit": "%"}
+S0960148113005727-855	1	MeasuredEntity	61	73	2	load factors	{"HasQuantity":"1"}
+S0960148113005727-855	2	Quantity	252	257	3	28.5%	{ "unit": "%"}
+S0960148113005727-855	2	MeasuredEntity	61	73	4	load factors	{"HasQuantity":"3"}
+S0960148113005727-855	3	Quantity	270	273	5	21%	{ "unit": "%"}
+S0960148113005727-855	3	MeasuredEntity	61	73	6	load factors	{"HasQuantity":"5"}
+S0960148113005727-855	4	Quantity	439	442	7	12%	{ "unit": "%"}
+S0960148113005727-855	4	MeasuredEntity	487	516	8	levelised cost of electricity	{"HasQuantity":"7"}
+S0960148113005727-855	5	Quantity	520	522	9	9%	{ "unit": "%"}
+S0960148113005727-855	5	MeasuredEntity	487	516	10	levelised cost of electricity	{"HasQuantity":"9"}

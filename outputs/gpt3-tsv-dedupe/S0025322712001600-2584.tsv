@@ -1,0 +1,5 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0025322712001600-2584	1	Quantity	871	888	1	less negative εNd	{ "unit": "εNd"}
+S0025322712001600-2584	1	MeasuredEntity	543	546	2	εNd	{"HasQuantity":"1"}
+S0025322712001600-2584	10	Quantity	871	888	19	less negative εNd	{ "unit": "εNd"}
+S0025322712001600-2584	10	MeasuredEntity	543	544	20	ε	{"HasQuantity":"19"}

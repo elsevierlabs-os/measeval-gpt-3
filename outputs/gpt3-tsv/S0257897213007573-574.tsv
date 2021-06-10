@@ -1,0 +1,4 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0257897213007573-574	1	Quantity	217	224	1	0.22 nm	{ "unit": "nm"}
+S0257897213007573-574	2	Quantity	236	243	2	1.46 nm	{ "unit": "nm"}
+S0257897213007573-574	3	Quantity	308	316	3	54.68 nm	

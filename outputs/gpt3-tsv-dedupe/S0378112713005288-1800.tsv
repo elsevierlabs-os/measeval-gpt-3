@@ -1,0 +1,3 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0378112713005288-1800	1	Quantity	388	401	1	1140 quadrats	{ "unit": "quadrats"}
+S0378112713005288-1800	1	MeasuredEntity	1475	1480	2	sites	{"HasQuantity":"1"}

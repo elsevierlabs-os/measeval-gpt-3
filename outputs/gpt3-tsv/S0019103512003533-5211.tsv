@@ -1,0 +1,32 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0019103512003533-5211	1	Quantity	451	478	1	10 keV electron energy flux	{ "unit": "keV"}
+S0019103512003533-5211	1	MeasuredEntity	365	383	2	simulations R1–R18	{"HasQuantity":"1"}
+S0019103512003533-5211	2	Quantity	451	478	3	10 keV electron energy flux	{ "unit": "keV"}
+S0019103512003533-5211	2	MeasuredEntity	365	383	4	simulations R1–R18	{"HasQuantity":"3"}
+S0019103512003533-5211	3	Quantity	451	478	5	10 keV electron energy flux	{ "unit": "keV"}
+S0019103512003533-5211	3	MeasuredEntity	365	383	6	simulations R1–R18	{"HasQuantity":"5"}
+S0019103512003533-5211	4	Quantity	451	478	7	10 keV electron energy flux	{ "unit": "keV"}
+S0019103512003533-5211	4	MeasuredEntity	365	383	8	simulations R1–R18	{"HasQuantity":"7"}
+S0019103512003533-5211	5	Quantity	451	478	9	10 keV electron energy flux	{ "unit": "keV"}
+S0019103512003533-5211	5	MeasuredEntity	365	383	10	simulations R1–R18	{"HasQuantity":"9"}
+S0019103512003533-5211	6	Quantity	451	478	11	10 keV electron energy flux	{ "unit": "keV"}
+S0019103512003533-5211	6	MeasuredEntity	365	383	12	simulations R1–R18	{"HasQuantity":"11"}
+S0019103512003533-5211	7	Quantity	451	478	13	10 keV electron energy flux	{ "unit": "keV"}
+S0019103512003533-5211	7	MeasuredEntity	365	383	14	simulations R1–R18	{"HasQuantity":"13"}
+S0019103512003533-5211	8	Quantity	451	478	15	10 keV electron energy flux	{ "unit": "keV"}
+S0019103512003533-5211	8	MeasuredEntity	365	383	16	simulations R1–R18	{"HasQuantity":"15"}
+S0019103512003533-5211	9	Quantity	451	478	17	10 keV electron energy flux	{ "unit": "keV"}
+S0019103512003533-5211	9	MeasuredEntity	365	383	18	simulations R1–R18	{"HasQuantity":"17"}
+S0019103512003533-5211	10	Quantity	451	478	19	10 keV electron energy flux	{ "unit": "keV"}
+S0019103512003533-5211	10	MeasuredEntity	365	383	20	simulations R1–R18	{"HasQuantity":"19"}
+S0019103512003533-5211	11	Quantity	451	478	21	10 keV electron energy flux	{ "unit": "keV"}
+S0019103512003533-5211	11	MeasuredEntity	365	383	22	simulations R1–R18	{"HasQuantity":"21"}
+S0019103512003533-5211	12	Quantity	451	478	23	10 keV electron energy flux	{ "unit": "keV"}
+S0019103512003533-5211	12	MeasuredEntity	365	383	24	simulations R1–R18	{"HasQuantity":"23"}
+S0019103512003533-5211	13	Quantity	451	478	25	10 keV electron energy flux	{ "unit": "keV"}
+S0019103512003533-5211	13	MeasuredEntity	365	383	26	simulations R1–R18	{"HasQuantity":"25"}
+S0019103512003533-5211	14	Quantity	451	478	27	10 keV electron energy flux	{ "unit": "keV"}
+S0019103512003533-5211	14	MeasuredEntity	365	383	28	simulations R1–R18	{"HasQuantity":"27"}
+S0019103512003533-5211	15	Quantity	451	478	29	10 keV electron energy flux	{ "unit": "keV"}
+S0019103512003533-5211	15	MeasuredEntity	365	383	30	simulations R1–R18	{"HasQuantity":"29"}
+S0019103512003533-5211	16	Quantity	332	334	31	10	

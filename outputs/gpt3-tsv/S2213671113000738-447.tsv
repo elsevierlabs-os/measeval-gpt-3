@@ -1,0 +1,4 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S2213671113000738-447	1	Quantity	59	85	1	next-generation sequencing	{ "unit": "cDNA sequence reads"}
+S2213671113000738-447	2	Quantity	94	129	2	cluster analysis of the monkey MHCs	
+S2213671113000738-447	2	MeasuredEntity	118	129	3	monkey MHCs	{"HasQuantity":"2"}

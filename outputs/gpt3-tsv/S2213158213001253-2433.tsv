@@ -1,0 +1,13 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S2213158213001253-2433	1	Quantity	296	299	1	AUC	{ "unit": "%"}
+S2213158213001253-2433	1	MeasuredEntity	26	37	2	classifiers	{"HasQuantity":"1"}
+S2213158213001253-2433	2	Quantity	304	307	3	EER	{ "unit": "%"}
+S2213158213001253-2433	2	MeasuredEntity	26	37	4	classifiers	{"HasQuantity":"3"}
+S2213158213001253-2433	3	Quantity	319	323	5	0.90	
+S2213158213001253-2433	5	Quantity	328	332	6	0.89	{ "unit": "%"}
+S2213158213001253-2433	5	MeasuredProperty	304	307	7	EER	{"HasQuantity":"6"}
+S2213158213001253-2433	5	MeasuredEntity	268	287	8	combined classifier	{"HasProperty":"7"}
+S2213158213001253-2433	6	Quantity	319	323	9	0.90	{ "unit": "%"}
+S2213158213001253-2433	6	MeasuredProperty	91	94	10	ROC	{"HasQuantity":"9"}
+S2213158213001253-2433	6	MeasuredEntity	130	145	11	sMRI classifier	{"HasProperty":"10"}
+S2213158213001253-2433	7	Quantity	328	332	12	0.89	

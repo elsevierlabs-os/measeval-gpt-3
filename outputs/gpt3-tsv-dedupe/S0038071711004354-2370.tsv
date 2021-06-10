@@ -1,0 +1,10 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0038071711004354-2370	1	Quantity	165	167	1	SE	{ "unit": "%"}
+S0038071711004354-2370	1	MeasuredProperty	145	156	2	variability	{"HasQuantity":"1"}
+S0038071711004354-2370	1	MeasuredEntity	15	17	3	fL	{"HasProperty":"2"}
+S0038071711004354-2370	2	Quantity	165	167	4	SE	{ "unit": "%"}
+S0038071711004354-2370	2	MeasuredProperty	145	156	5	variability	{"HasQuantity":"4"}
+S0038071711004354-2370	2	MeasuredEntity	11	13	6	fR	{"HasProperty":"5"}
+S0038071711004354-2370	3	Quantity	165	167	7	SE	{ "unit": "%"}
+S0038071711004354-2370	3	MeasuredProperty	145	156	8	variability	{"HasQuantity":"7"}
+S0038071711004354-2370	3	MeasuredEntity	23	27	9	fSOM	{"HasProperty":"8"}

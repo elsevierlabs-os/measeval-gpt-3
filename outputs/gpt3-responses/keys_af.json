@@ -1,0 +1,41 @@
+{ "results": [{ "doc": "S2213158213000582-751.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 50 ms\nUnit: ms\nProperty: activity\nEntity: between-group analyses\n"
+},
+{ "doc": "S2213158213000582-766.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 100 ms\nUnit: ms\nProperty: activity\nEntity: between-group analyses\n"
+},
+{ "doc": "S2213158213001253-2433.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: AUC\nUnit: %\nProperty: performances of the three classifiers\nEntity: classifiers\n\nQuantity: EER\nUnit: %\nProperty: performances of the three classifiers\nEntity: classifiers\n\nQuantity: 0.90\n\nUnit: %\nProperty: AUC\nEntity: combined classifier\n\nQuantity: 0.89\nUnit: %\nProperty: EER\nEntity: combined classifier\n\nQuantity: 0.90\nUnit: %\nProperty: ROC\nEntity: sMRI classifier\n\nQuantity: 0.89\n"
+},
+{ "doc": "S2213158213001253-2583.txt",
+"finish_reason":"length",
+"text" : "\n\nData:\nQuantity: 1016 cm−3\nUnit: cm−3\nEntity: injection level range\n\nQuantity: 1013 cm−3\nUnit: cm"
+},
+{ "doc": "S2213671113000738-447.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: next-generation sequencing\nUnit: cDNA sequence reads\nEntity: monkey MHC-I allele\n\nQuantity: cluster analysis of the monkey MHCs\nEntity: monkey MHCs\n"
+},
+{ "doc": "S2213671113000738-667.txt",
+"finish_reason":"length",
+"text" : "\n\nData:\nQuantity: 1:100\nUnit: 1:100\nEntity: peripheral blood cells\n\nQuantity: approximately 1:100\nUnit: 1:100\nEntity: fibroblast- and blood-cell-derived iPSCs\n\nQuantity: approximately 1:100\nUnit: 1:100\nEntity: peripheral blood cells\n\nQuantity: approximately 1:100\nUnit: 1:100\nEntity: fibroblast- and blood-cell-derived iPSCs\n\nQuantity: approximately 1:100\nUnit: 1:100\n\nEntity: peripheral blood cells\n\nQuantity: approximately 1:100\nUnit: 1:100\nEntity: fibroblast- and blood-cell-derived iPSCs\n\nQuantity: approximately 1:100\nUnit: 1:100\nEntity: peripheral blood cells\n\nQuantity: approximately 1:100\nUnit: 1:100\nEntity: fibroblast- and blood-cell-derived iPSCs\n\nQuantity: approximately 1:100\nUnit: 1:100\nEntity: peripheral blood cells\n\nQuantity: approximately 1:100\nUnit: 1:100\nEntity: fibroblast- and blood-cell-derived iPSCs\n\nQuantity: approximately 1:100\nUnit: 1:100\nEntity: peripheral blood cells\n\nQuantity: approximately 1:100\nUnit: 1:100\nEntity: fibroblast- and blood-cell-derived iPSCs\n\nQuantity: approximately 1:100\nUnit: 1:100\nEntity: peripheral blood cells\n\nQuantity: approximately 1:100\nUnit: 1:100\nEntity: fibroblast- and blood-cell-derived"
+},
+{ "doc": "S2213671113000738-787.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: 40 μm\nUnit: μm\nEntity: thickness\n"
+},
+{ "doc": "S2213671113000908-643.txt",
+"finish_reason":"length",
+"text" : "\n\nData:\nQuantity: 25 days\nUnit: days\nProperty: differentiated\nEntity: cells\n\nQuantity: ALB, AFP, and A1AT\nUnit:                                                                                                                                                                                                                                                                                                                         "
+},
+{ "doc": "S2213671113000921-756.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: day 8\nUnit: day\nEntity: SOX2-GFP AFE cultures\n"
+},
+{ "doc": "S2213671113001306-1385.txt",
+"finish_reason":"stop",
+"text" : "\n\nData:\nQuantity: days 3–5\nUnit: days\nProperty: first postoperative exam\nEntity: white retinal opacity\n\nQuantity: days\nUnit: days\nProperty: follow-up exams\nEntity: steep edge around the implant periphery\n"
+},
+]}

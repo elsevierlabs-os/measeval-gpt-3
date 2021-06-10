@@ -1,0 +1,3 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S1359645413009816-2227	1	Quantity	26	36	1	14 samples	{ "unit": "samples"}
+S1359645413009816-2227	1	MeasuredEntity	8	24	2	DSC measurements	{"HasQuantity":"1"}

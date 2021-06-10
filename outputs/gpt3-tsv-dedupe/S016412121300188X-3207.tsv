@@ -1,0 +1,7 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S016412121300188X-3207	1	Quantity	343	346	1	89%	{ "unit": "%"}
+S016412121300188X-3207	1	MeasuredEntity	354	362	2	programs	{"HasQuantity":"1"}
+S016412121300188X-3207	2	Quantity	640	643	3	40%	{ "unit": "%"}
+S016412121300188X-3207	2	MeasuredEntity	354	362	4	programs	{"HasQuantity":"3"}
+S016412121300188X-3207	3	Quantity	511	517	5	20KLoC	{ "unit": "KLoC"}
+S016412121300188X-3207	3	MeasuredEntity	470	506	6	average size of the programs studied	{"HasQuantity":"5"}

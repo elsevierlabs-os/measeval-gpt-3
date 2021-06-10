@@ -1,0 +1,3 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0378383911001669-1203	1	Quantity	242	253	1	water depth	{ "unit": "m"}
+S0378383911001669-1203	1	MeasuredEntity	174	187	2	late backwash	{"HasQuantity":"1"}

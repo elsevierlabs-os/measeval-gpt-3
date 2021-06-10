@@ -1,0 +1,4 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0960148113002735-1989	1	Quantity	68	74	1	1800 s	{ "unit": "s"}
+S0960148113002735-1989	1	MeasuredProperty	44	59	2	mutual topology	{"HasQuantity":"1"}
+S0960148113002735-1989	1	MeasuredEntity	139	148	3	turbine 4	{"HasProperty":"2"}

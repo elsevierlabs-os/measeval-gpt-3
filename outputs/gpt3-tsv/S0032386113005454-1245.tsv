@@ -1,0 +1,5 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0032386113005454-1245	1	Quantity	79	85	1	10 wt%	{ "unit": "wt%"}
+S0032386113005454-1245	1	MeasuredEntity	105	120	2	S-CSR particles	{"HasQuantity":"1"}
+S0032386113005454-1245	2	Quantity	95	101	3	20 wt%	{ "unit": "wt%"}
+S0032386113005454-1245	2	MeasuredEntity	105	120	4	S-CSR particles	{"HasQuantity":"3"}

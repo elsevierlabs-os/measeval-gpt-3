@@ -1,0 +1,29 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0925443913001385-849	3	Quantity	289	303	1	2, 5 and 10 μg	{ "unit": "μg"}
+S0925443913001385-849	3	MeasuredEntity	308	318	2	total RNAs	{"HasQuantity":"1"}
+S0925443913001385-849	4	Quantity	393	399	3	835 μg	{ "unit": "μg"}
+S0925443913001385-849	4	MeasuredEntity	370	391	4	mitochondrial lysates	{"HasQuantity":"3"}
+S0925443913001385-849	5	Quantity	289	303	5	2, 5 and 10 μg	{ "unit": "μg"}
+S0925443913001385-849	5	MeasuredEntity	75	81	6	MRPL12	{"HasQuantity":"5"}
+S0925443913001385-849	6	Quantity	393	399	7	835 μg	{ "unit": "μg"}
+S0925443913001385-849	6	MeasuredEntity	370	391	8	mitochondrial lysates	{"HasQuantity":"7"}
+S0925443913001385-849	7	Quantity	289	303	9	2, 5 and 10 μg	{ "unit": "μg"}
+S0925443913001385-849	9	Quantity	393	399	10	835 μg	{ "unit": "μg"}
+S0925443913001385-849	9	MeasuredEntity	370	391	11	mitochondrial lysates	{"HasQuantity":"10"}
+S0925443913001385-849	10	Quantity	289	303	12	2, 5 and 10 μg	{ "unit": "μg"}
+S0925443913001385-849	10	MeasuredEntity	75	81	13	MRPL12	{"HasQuantity":"12"}
+S0925443913001385-849	11	Quantity	393	399	14	835 μg	{ "unit": "μg"}
+S0925443913001385-849	11	MeasuredEntity	370	391	15	mitochondrial lysates	{"HasQuantity":"14"}
+S0925443913001385-849	12	Quantity	289	303	16	2, 5 and 10 μg	{ "unit": "μg"}
+S0925443913001385-849	12	MeasuredEntity	75	81	17	MRPL12	{"HasQuantity":"16"}
+S0925443913001385-849	13	Quantity	393	399	18	835 μg	{ "unit": "μg"}
+S0925443913001385-849	13	MeasuredEntity	370	391	19	mitochondrial lysates	{"HasQuantity":"18"}
+S0925443913001385-849	14	Quantity	289	303	20	2, 5 and 10 μg	{ "unit": "μg"}
+S0925443913001385-849	14	MeasuredEntity	75	81	21	MRPL12	{"HasQuantity":"20"}
+S0925443913001385-849	15	Quantity	393	399	22	835 μg	{ "unit": "μg"}
+S0925443913001385-849	15	MeasuredEntity	370	391	23	mitochondrial lysates	{"HasQuantity":"22"}
+S0925443913001385-849	16	Quantity	289	303	24	2, 5 and 10 μg	{ "unit": "μg"}
+S0925443913001385-849	16	MeasuredEntity	75	81	25	MRPL12	{"HasQuantity":"24"}
+S0925443913001385-849	17	Quantity	393	399	26	835 μg	{ "unit": "μg"}
+S0925443913001385-849	17	MeasuredEntity	370	391	27	mitochondrial lysates	{"HasQuantity":"26"}
+S0925443913001385-849	18	Quantity	289	303	28	2, 5 and 10 μg	{ "unit": "μg"}

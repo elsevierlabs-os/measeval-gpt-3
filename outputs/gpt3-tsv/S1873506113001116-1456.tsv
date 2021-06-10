@@ -1,0 +1,7 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S1873506113001116-1456	1	Quantity	311	322	1	20 passages	{ "unit": "passages"}
+S1873506113001116-1456	1	MeasuredEntity	865	871	2	hiPSCs	{"HasQuantity":"1"}
+S1873506113001116-1456	2	Quantity	841	843	3	5%	{ "unit": "%"}
+S1873506113001116-1456	2	MeasuredEntity	823	832	4	frequency	{"HasQuantity":"3"}
+S1873506113001116-1456	3	Quantity	444	451	5	47, XXY	{ "unit": "XXY"}
+S1873506113001116-1456	3	MeasuredEntity	293	302	6	karyotype	{"HasQuantity":"5"}

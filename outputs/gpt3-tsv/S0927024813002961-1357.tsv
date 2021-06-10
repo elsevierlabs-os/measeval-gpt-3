@@ -1,0 +1,3 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0927024813002961-1357	1	Quantity	103	110	1	0.65%/a	{ "unit": "%/a"}
+S0927024813002961-1357	1	MeasuredEntity	4	15	2	degradation	{"HasQuantity":"1"}

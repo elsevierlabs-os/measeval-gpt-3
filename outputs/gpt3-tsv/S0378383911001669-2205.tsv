@@ -1,0 +1,23 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0378383911001669-2205	1	Quantity	192	203	1	x = 0.772 m	{ "unit": "m"}
+S0378383911001669-2205	1	MeasuredEntity	283	306	2	1.3 mm sand-rough beach	{"HasQuantity":"1"}
+S0378383911001669-2205	2	Quantity	192	203	3	x = 0.772 m	{ "unit": "m"}
+S0378383911001669-2205	2	MeasuredEntity	233	258	4	5.4 mm gravel-rough beach	{"HasQuantity":"3"}
+S0378383911001669-2205	3	Quantity	192	203	5	x = 0.772 m	{ "unit": "m"}
+S0378383911001669-2205	3	MeasuredEntity	283	306	6	1.3 mm sand-rough beach	{"HasQuantity":"5"}
+S0378383911001669-2205	4	Quantity	192	203	7	x = 0.772 m	{ "unit": "m"}
+S0378383911001669-2205	4	MeasuredEntity	233	258	8	5.4 mm gravel-rough beach	{"HasQuantity":"7"}
+S0378383911001669-2205	5	Quantity	192	203	9	x = 0.772 m	{ "unit": "m"}
+S0378383911001669-2205	5	MeasuredEntity	283	306	10	1.3 mm sand-rough beach	{"HasQuantity":"9"}
+S0378383911001669-2205	6	Quantity	192	203	11	x = 0.772 m	{ "unit": "m"}
+S0378383911001669-2205	6	MeasuredEntity	233	258	12	5.4 mm gravel-rough beach	{"HasQuantity":"11"}
+S0378383911001669-2205	7	Quantity	192	203	13	x = 0.772 m	{ "unit": "m"}
+S0378383911001669-2205	7	MeasuredEntity	283	306	14	1.3 mm sand-rough beach	{"HasQuantity":"13"}
+S0378383911001669-2205	8	Quantity	192	203	15	x = 0.772 m	{ "unit": "m"}
+S0378383911001669-2205	8	MeasuredEntity	233	258	16	5.4 mm gravel-rough beach	{"HasQuantity":"15"}
+S0378383911001669-2205	9	Quantity	192	203	17	x = 0.772 m	{ "unit": "m"}
+S0378383911001669-2205	9	MeasuredEntity	283	306	18	1.3 mm sand-rough beach	{"HasQuantity":"17"}
+S0378383911001669-2205	10	Quantity	192	203	19	x = 0.772 m	{ "unit": "m"}
+S0378383911001669-2205	10	MeasuredEntity	233	258	20	5.4 mm gravel-rough beach	{"HasQuantity":"19"}
+S0378383911001669-2205	11	Quantity	192	203	21	x = 0.772 m	{ "unit": "m"}
+S0378383911001669-2205	11	MeasuredEntity	283	306	22	1.3 mm sand-rough beach	{"HasQuantity":"21"}

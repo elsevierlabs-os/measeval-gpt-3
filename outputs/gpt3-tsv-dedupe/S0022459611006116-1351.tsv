@@ -1,0 +1,12 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0022459611006116-1351	3	Quantity	19	36	1	pale cream powder	{ "unit": "powder"}
+S0022459611006116-1351	3	MeasuredEntity	40	41	2	2	{"HasQuantity":"1"}
+S0022459611006116-1351	4	Quantity	58	64	3	1423 K	{ "unit": "K"}
+S0022459611006116-1351	5	Quantity	420	433	4	a=4.1816(4) Å	{ "unit": "Å"}
+S0022459611006116-1351	5	MeasuredEntity	405	414	5	unit cell	{"HasQuantity":"4"}
+S0022459611006116-1351	6	Quantity	438	452	6	c=10.0322(6) Å	{ "unit": "Å"}
+S0022459611006116-1351	6	MeasuredEntity	405	414	7	unit cell	{"HasQuantity":"6"}
+S0022459611006116-1351	7	Quantity	503	512	8	a=4.186 Å	{ "unit": "Å"}
+S0022459611006116-1351	7	MeasuredEntity	482	499	9	literature values	{"HasQuantity":"8"}
+S0022459611006116-1351	8	Quantity	517	527	10	c=10.042 Å	{ "unit": "Å"}
+S0022459611006116-1351	8	MeasuredEntity	482	499	11	literature values	{"HasQuantity":"10"}

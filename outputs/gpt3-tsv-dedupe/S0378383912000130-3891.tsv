@@ -1,0 +1,7 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0378383912000130-3891	1	Quantity	132	138	1	1.5 mm	{ "unit": "mm"}
+S0378383912000130-3891	1	MeasuredEntity	150	158	2	sediment	{"HasQuantity":"1"}
+S0378383912000130-3891	2	Quantity	143	149	3	8.5 mm	{ "unit": "mm"}
+S0378383912000130-3891	2	MeasuredEntity	150	158	4	sediment	{"HasQuantity":"3"}
+S0378383912000130-3891	3	Quantity	4	25	5	numerical predictions	{ "unit": "numerical predictions"}
+S0378383912000130-3891	3	MeasuredEntity	4	25	6	numerical predictions	{"HasQuantity":"5"}

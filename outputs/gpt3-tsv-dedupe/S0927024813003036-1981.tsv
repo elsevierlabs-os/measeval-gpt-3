@@ -1,0 +1,6 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0927024813003036-1981	1	Quantity	318	331	1	99.95% purity	{ "unit": "%"}
+S0927024813003036-1981	1	MeasuredEntity	337	359	2	Testbourne Limited, UK	{"HasQuantity":"1"}
+S0927024813003036-1981	2	Quantity	442	448	3	798 °C	{ "unit": "°C"}
+S0927024813003036-1981	2	MeasuredEntity	412	419	4	furnace	{"HasQuantity":"3"}
+S0927024813003036-1981	3	Quantity	862	867	5	<10 s	{ "unit": "s"}

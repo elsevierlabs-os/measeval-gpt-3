@@ -1,0 +1,18 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S037842901300244X-1427	1	Quantity	1312	1315	1	76%	{ "unit": "%"}
+S037842901300244X-1427	1	MeasuredEntity	906	911	2	ASNPC	{"HasQuantity":"1"}
+S037842901300244X-1427	2	Quantity	1327	1330	3	84%	{ "unit": "%"}
+S037842901300244X-1427	2	MeasuredEntity	906	911	4	ASNPC	{"HasQuantity":"3"}
+S037842901300244X-1427	3	Quantity	1344	1347	5	34%	{ "unit": "%"}
+S037842901300244X-1427	3	MeasuredEntity	906	911	6	ASNPC	{"HasQuantity":"5"}
+S037842901300244X-1427	4	Quantity	1312	1315	7	76%	{ "unit": "%"}
+S037842901300244X-1427	4	MeasuredEntity	906	911	8	ASNPC	{"HasQuantity":"7"}
+S037842901300244X-1427	5	Quantity	1344	1347	9	34%	{ "unit": "%"}
+S037842901300244X-1427	5	MeasuredEntity	906	911	10	ASNPC	{"HasQuantity":"9"}
+S037842901300244X-1427	6	Quantity	1327	1330	11	84%	{ "unit": "%"}
+S037842901300244X-1427	6	MeasuredEntity	906	911	12	ASNPC	{"HasQuantity":"11"}
+S037842901300244X-1427	7	Quantity	651	657	13	Sadoré	{ "unit": "%"}
+S037842901300244X-1427	7	MeasuredEntity	906	911	14	ASNPC	{"HasQuantity":"13"}
+S037842901300244X-1427	8	Quantity	670	677	15	Cinzana	{ "unit": "%"}
+S037842901300244X-1427	8	MeasuredEntity	906	911	16	ASNPC	{"HasQuantity":"15"}
+S037842901300244X-1427	9	Quantity	1349	1374	17	combined across locations	{ "unit": "%"}

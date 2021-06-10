@@ -1,0 +1,3 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0038071711004354-2578	1	Quantity	153	159	1	porous	
+S0038071711004354-2578	1	MeasuredEntity	160	170	2	sandy soil	{"HasQuantity":"1"}

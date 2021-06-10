@@ -1,0 +1,5 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0019103512002801-1781	1	Quantity	96	102	1	90 keV	{ "unit": "keV"}
+S0019103512002801-1781	1	MeasuredEntity	67	76	2	electrons	{"HasQuantity":"1"}
+S0019103512002801-1781	2	Quantity	125	129	3	170°	{ "unit": "°"}
+S0019103512002801-1781	2	MeasuredEntity	109	120	4	pitch angle	{"HasQuantity":"3"}

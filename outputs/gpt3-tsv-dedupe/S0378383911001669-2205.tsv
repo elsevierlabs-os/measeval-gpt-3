@@ -1,0 +1,5 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0378383911001669-2205	1	Quantity	192	203	1	x = 0.772 m	{ "unit": "m"}
+S0378383911001669-2205	1	MeasuredEntity	283	306	2	1.3 mm sand-rough beach	{"HasQuantity":"1"}
+S0378383911001669-2205	2	Quantity	192	203	3	x = 0.772 m	{ "unit": "m"}
+S0378383911001669-2205	2	MeasuredEntity	233	258	4	5.4 mm gravel-rough beach	{"HasQuantity":"3"}

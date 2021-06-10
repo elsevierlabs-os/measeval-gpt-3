@@ -1,0 +1,3 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0967064513002774-1376	1	Quantity	75	81	1	220 mL	{ "unit": "mL"}
+S0967064513002774-1376	1	MeasuredEntity	82	101	2	incubation chambers	{"HasQuantity":"1"}

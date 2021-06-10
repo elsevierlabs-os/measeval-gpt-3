@@ -1,0 +1,15 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0022399913003358-956	1	Quantity	0	23	1	UK prevalence estimates	{ "unit": "prevalence figures"}
+S0022399913003358-956	1	MeasuredEntity	28	36	2	tinnitus	{"HasQuantity":"1"}
+S0022399913003358-956	2	Quantity	72	110	3	widely cited National Study of Hearing	{ "unit": "NSH"}
+S0022399913003358-956	2	MeasuredEntity	171	189	4	prevalence figures	{"HasQuantity":"3"}
+S0022399913003358-956	3	Quantity	207	217	5	since then	{ "unit": "since"}
+S0022399913003358-956	3	MeasuredEntity	171	189	6	prevalence figures	{"HasQuantity":"5"}
+S0022399913003358-956	4	Quantity	239	271	7	more recreational noise exposure	{ "unit": "recreational noise exposure"}
+S0022399913003358-956	4	MeasuredEntity	171	189	8	prevalence figures	{"HasQuantity":"7"}
+S0022399913003358-956	5	Quantity	458	478	9	detailed description	{ "unit": "description"}
+S0022399913003358-956	5	MeasuredEntity	171	189	10	prevalence figures	{"HasQuantity":"9"}
+S0022399913003358-956	6	Quantity	514	536	11	large population study	{ "unit": "population study"}
+S0022399913003358-956	6	MeasuredEntity	171	189	12	prevalence figures	{"HasQuantity":"11"}
+S0022399913003358-956	7	Quantity	555	569	13	40 to 69 years	{ "unit": "years"}
+S0022399913003358-956	7	MeasuredEntity	584	595	14	age and sex	{"HasQuantity":"13"}

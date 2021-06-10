@@ -1,0 +1,5 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0038071711004354-2389	1	Quantity	103	121	1	0.18 g CO2 m−2 h−1	{ "unit": "g CO2 m−2 h−1"}
+S0038071711004354-2389	1	MeasuredEntity	83	99	2	autotrophic flux	{"HasQuantity":"1"}
+S0038071711004354-2389	2	Quantity	207	225	3	0.15 g CO2 m−2 h−1	{ "unit": "g CO2 m−2 h−1"}
+S0038071711004354-2389	2	MeasuredEntity	175	203	4	heterotrophic component flux	{"HasQuantity":"3"}

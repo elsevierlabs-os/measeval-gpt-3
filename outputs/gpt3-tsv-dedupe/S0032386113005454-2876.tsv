@@ -1,0 +1,6 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0032386113005454-2876	1	Quantity	311	316	1	20 °C	{ "unit": "°C"}
+S0032386113005454-2876	1	MeasuredProperty	299	307	2	fracture	{"HasQuantity":"1"}
+S0032386113005454-2876	1	MeasuredEntity	192	204	3	DN-4PB tests	{"HasProperty":"2"}
+S0032386113005454-2876	2	Quantity	414	445	4	transmission optical microscopy	
+S0032386113005454-2876	2	MeasuredEntity	322	380	5	plastic zone at the tip of the sub-critically loaded crack	{"HasQuantity":"4"}

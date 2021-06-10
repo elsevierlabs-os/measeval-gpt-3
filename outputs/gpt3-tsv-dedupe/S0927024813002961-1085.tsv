@@ -1,0 +1,7 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0927024813002961-1085	1	Quantity	324	329	1	25 °C	{ "unit": "°C"}
+S0927024813002961-1085	1	MeasuredEntity	114	117	2	STC	{"HasQuantity":"1"}
+S0927024813002961-1085	2	Quantity	353	362	3	1000 W/m2	{ "unit": "W/m2"}
+S0927024813002961-1085	2	MeasuredEntity	341	351	4	irradiance	{"HasQuantity":"3"}
+S0927024813002961-1085	3	Quantity	574	581	5	kWh/kWp	{ "unit": "kWh/kWp"}
+S0927024813002961-1085	3	MeasuredEntity	558	572	6	specific yield	{"HasQuantity":"5"}

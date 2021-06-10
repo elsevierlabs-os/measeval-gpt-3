@@ -1,0 +1,19 @@
+docId	annotSet	annotType	startOffset	endOffset	annotId	text	other
+S0378112713005288-1800	1	Quantity	388	401	1	1140 quadrats	{ "unit": "quadrats"}
+S0378112713005288-1800	1	MeasuredEntity	1475	1480	2	sites	{"HasQuantity":"1"}
+S0378112713005288-1800	2	Quantity	388	401	3	1140 quadrats	{ "unit": "quadrats"}
+S0378112713005288-1800	2	MeasuredEntity	1475	1480	4	sites	{"HasQuantity":"3"}
+S0378112713005288-1800	3	Quantity	388	401	5	1140 quadrats	{ "unit": "quadrats"}
+S0378112713005288-1800	3	MeasuredEntity	1475	1480	6	sites	{"HasQuantity":"5"}
+S0378112713005288-1800	4	Quantity	388	401	7	1140 quadrats	{ "unit": "quadrats"}
+S0378112713005288-1800	4	MeasuredEntity	1475	1480	8	sites	{"HasQuantity":"7"}
+S0378112713005288-1800	5	Quantity	388	401	9	1140 quadrats	{ "unit": "quadrats"}
+S0378112713005288-1800	5	MeasuredEntity	1475	1480	10	sites	{"HasQuantity":"9"}
+S0378112713005288-1800	6	Quantity	388	401	11	1140 quadrats	{ "unit": "quadrats"}
+S0378112713005288-1800	6	MeasuredEntity	1475	1480	12	sites	{"HasQuantity":"11"}
+S0378112713005288-1800	7	Quantity	388	401	13	1140 quadrats	{ "unit": "quadrats"}
+S0378112713005288-1800	7	MeasuredEntity	1475	1480	14	sites	{"HasQuantity":"13"}
+S0378112713005288-1800	8	Quantity	388	401	15	1140 quadrats	{ "unit": "quadrats"}
+S0378112713005288-1800	8	MeasuredEntity	1475	1480	16	sites	{"HasQuantity":"15"}
+S0378112713005288-1800	9	Quantity	388	401	17	1140 quadrats	{ "unit": "quadrats"}
+S0378112713005288-1800	9	MeasuredEntity	1475	1480	18	sites	{"HasQuantity":"17"}

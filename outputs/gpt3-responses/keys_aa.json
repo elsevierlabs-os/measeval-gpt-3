@@ -1,0 +1,759 @@
+{ "results": [{ "doc": "S0012821X12004384-1610.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: 2617.4 m
+Unit: m
+Entity: brief peak in Apectodinium
+"
+},
+{ "doc": "S0012821X12004384-990.txt",
+"finish_reason":"length",
+"text" : "
+
+Data:
+Quantity: axis 1=39% of total variance
+Unit: %
+Entity: correspondence analysis
+
+Quantity: axis 2=17% of total variance
+Unit: %
+Entity: correspondence analysis
+
+Quantity: axis 1=31% of total variance
+Unit: %
+Entity: correspondence analysis
+
+Quantity: axis 2=11% of total variance
+Unit: %
+Entity: correspondence analysis
+
+Quantity: symbols
+Unit: symbols
+Entity: depths
+
+Quantity: depths
+Unit: depths
+Entity: pollen assemblages
+
+Quantity: pollen assemblages
+Unit: pollen assemblages
+Entity: palynomorph species
+
+Quantity: palynomorph species
+Unit: palynomorph species
+Entity: core 22/10a-4
+
+Quantity: core 22/10a-4
+Unit: core 22/10a-4
+Entity: pollen assemblages
+
+Quantity: pollen assemblages
+Unit: pollen assemblages
+Entity: dinoflagellate cyst assemblages
+
+Quantity: dinoflagellate cyst assemblages
+Unit: dinoflagellate cyst assemblages
+Entity: palynomorph species
+
+Quantity: palynomorph species
+Unit: palynomorph species
+Entity: pre-CIE peaks in Apectodinium
+
+Quantity: pre-CIE peaks in Apectodinium
+Unit: pre-CIE peaks in Apectodinium
+Entity: δ13CTOC
+
+Quantity: δ13CTOC
+"
+},
+{ "doc": "S0012821X13007309-1649.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: 0.5‰ VPDB
+Unit: ‰
+Entity: excursion
+
+Quantity: 1035.75 mbsf
+Unit: mbsf
+Entity: maximum enrichment in the δ13Corg
+"
+},
+{ "doc": "S0016236113008041-3127.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: 600 °C
+Unit: °C
+Entity: temperatures
+
+Quantity: 750 °C
+Unit: °C
+Entity: temperatures
+
+Quantity: 1000 °C
+Unit: °C
+Entity: temperatures
+
+Quantity: 20 °C
+Unit: °C
+Entity: steps
+
+Quantity: atmospheric pressure
+Entity: pressure
+"
+},
+{ "doc": "S0016236113008041-3257.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: 0.34
+Unit: %
+Property: Al
+Entity: unreacted sample
+
+Quantity: 0.67%
+Unit: %
+Property: Al
+Entity: 4.5 kg sample
+
+Quantity: 0.66%
+"
+},
+{ "doc": "S0019103511004994-1607.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: 50 km
+Unit: km
+Entity: minimum distance
+
+Quantity: linear scale
+Entity: upper four panels
+
+Quantity: linear scale
+Entity: lower two panels
+
+Quantity: 115°
+Unit: °
+Entity: local pitch angle
+
+Quantity: 75°
+Unit: °
+Entity: azimuthal component of the measured magnetic field Bϕ
+"
+},
+{ "doc": "S0019103512002801-1781.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: 90 keV
+Unit: keV
+Entity: electrons
+
+Quantity: 170°
+Unit: °
+Entity: pitch angle
+"
+},
+{ "doc": "S0019103512002801-2075.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: 15–35 km
+Unit: km
+Entity: gyroradius of energetic electrons
+
+Quantity: Rhea’s diameter
+Unit: km
+Entity: scale size of the various macroscopic interaction features
+"
+},
+{ "doc": "S0019103512003533-3908.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: 0.125
+Unit: factor
+Entity: reaction rate
+"
+},
+{ "doc": "S0019103512003533-5211.txt",
+"finish_reason":"length",
+"text" : "
+
+Data:
+Quantity: 10 keV electron energy flux
+Unit: keV
+Entity: simulations R1–R18
+
+Quantity: 10 keV electron energy flux
+Unit: keV
+Entity: simulations R1–R18
+
+Quantity: 10 keV electron energy flux
+Unit: keV
+Entity: simulations R1–R18
+
+Quantity: 10 keV electron energy flux
+Unit: keV
+Entity: simulations R1–R18
+
+Quantity: 10 keV electron energy flux
+Unit: keV
+Entity: simulations R1–R18
+
+Quantity: 10 keV electron energy flux
+Unit: keV
+Entity: simulations R1–R18
+
+Quantity: 10 keV electron energy flux
+Unit: keV
+Entity: simulations R1–R18
+
+Quantity: 10 keV electron energy flux
+Unit: keV
+Entity: simulations R1–R18
+
+Quantity: 10 keV electron energy flux
+Unit: keV
+Entity: simulations R1–R18
+
+Quantity: 10 keV electron energy flux
+Unit: keV
+Entity: simulations R1–R18
+
+Quantity: 10 keV electron energy flux
+Unit: keV
+Entity: simulations R1–R18
+
+Quantity: 10 keV electron energy flux
+Unit: keV
+Entity: simulations R1–R18
+
+Quantity: 10 keV electron energy flux
+Unit: keV
+Entity: simulations R1–R18
+
+Quantity: 10 keV electron energy flux
+Unit: keV
+Entity: simulations R1–R18
+
+Quantity: 10 keV electron energy flux
+Unit: keV
+Entity: simulations R1–R18
+
+Quantity: 10"
+},
+{ "doc": "S0019103512003533-5300.txt",
+"finish_reason":"length",
+"text" : "
+
+Data:
+Quantity: virtually constant
+Unit: K
+Entity: temperature
+
+Quantity: 550 K
+Unit: K
+Entity: temperature
+
+Quantity: 850 K
+Unit: K
+Entity: temperature
+
+Quantity: ∼550 K
+Unit: K
+Entity: temperature
+
+Quantity: ∼850 K
+Unit: K
+Entity: temperature
+
+Quantity: ∼550 K
+Unit: K
+Entity: temperature
+
+Quantity: ∼850 K
+Unit: K
+Entity: temperature
+
+Quantity: ∼550 K
+Unit: K
+Entity: temperature
+
+Quantity: ∼850 K
+Unit: K
+Entity: temperature
+
+Quantity: ∼550 K
+Unit: K
+Entity: temperature
+
+Quantity: ∼850 K
+Unit: K
+Entity: temperature
+
+Quantity: ∼550 K
+Unit: K
+Entity: temperature
+
+Quantity: ∼850 K
+Unit: K
+Entity: temperature
+
+Quantity: ∼550 K
+Unit: K
+Entity: temperature
+
+Quantity: ∼850 K
+Unit: K
+Entity: temperature
+
+Quantity: ∼550 K
+Unit: K
+Entity: temperature
+
+Quantity: ∼850 K
+Unit: K
+Entity: temperature
+
+Quantity: ∼550 K
+Unit: K
+Entity: temperature
+
+Quantity: ∼850 K
+Unit: K
+Entity: temperature
+
+Quantity: ∼550 K
+Unit: K
+Entity: temperature
+
+Quantity: ∼850 K
+Unit: K
+Entity: temperature
+
+Quantity: ∼550 K
+Unit: K
+Entity: temperature
+
+Quantity: ∼850 K
+Unit: K
+Entity: temperature
+
+Quantity: ∼"
+},
+{ "doc": "S0019103512003533-5318.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: 400–650 K
+Unit: K
+Entity: observed temperatures on Saturn
+
+Quantity: 400–650 K
+Unit: K
+Entity: observed temperatures on Saturn
+
+Quantity: 1 mW m−2
+Unit: mW m−2
+Entity: 10 keV electron flux
+
+Quantity: 100 mV m−1
+Unit: mV m−1
+Entity: magnetospheric electric field
+"
+},
+{ "doc": "S0019103512003995-1237.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: 2.23 × 1019 m−2
+Unit: m−2
+Entity: column density of ground state C+ in the ISM
+
+Quantity: −6.6 km s−1
+Unit: km s−1
+Entity: relative velocity of the ISM with respect to Earth
+
+Quantity: 12.3 km s−1
+Unit: km s−1
+Entity: effective thermal velocity along the LOS to the star
+
+Quantity: R = 17,500
+Unit: R
+Entity: spectral resolution
+"
+},
+{ "doc": "S0019103512003995-2096.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: 0.1–1 μbar
+Unit: μbar
+Entity: lower boundary
+
+Quantity: 8000–11,000K
+Unit: K
+Entity: mean temperature
+
+Quantity: 2.7Rp
+Unit: Rp
+Entity: upper boundary
+
+Quantity: 8250 K
+Unit: K
+Entity: mean temperature
+"
+},
+{ "doc": "S0019103512003995-2579.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: density profiles of H, H+, O, and O+ from the C2 model
+Quantity: density profile of H from the M7b model
+"
+},
+{ "doc": "S0019103513005058-3189.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: perchlorate
+Entity: salts
+"
+},
+{ "doc": "S0019103513005058-4499.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: no one factor could perturb the nominal model to produce amounts of perchlorate that approach the amount measured by the Phoenix Lander
+Unit: 
+Entity: sensitivity tests
+
+Quantity: combination of such factors
+Unit: factors
+Entity: combination of such factors
+"
+},
+{ "doc": "S0021979713004438-2004.txt",
+"finish_reason":"length",
+"text" : "
+
+Data:
+Quantity: nano-mechanical properties of the surface
+Entity: images
+
+Quantity: nano-mechanical properties of the surface
+Entity: images
+
+Quantity: nano-mechanical properties of the surface
+Entity: images
+
+Quantity: nano-mechanical properties of the surface
+Entity: images
+
+Quantity: nano-mechanical properties of the surface
+Entity: images
+
+Quantity: nano-mechanical properties of the surface
+Entity: images
+
+Quantity: nano-mechanical properties of the surface
+Entity: images
+
+Quantity: nano-mechanical properties of the surface
+Entity: images
+
+Quantity: nano-mechanical properties of the surface
+Entity: images
+
+Quantity: nano-mechanical properties of the surface
+Entity: images
+
+Quantity: nano-mechanical properties of the surface
+Entity: images
+
+Quantity: nano-mechanical properties of the surface
+Entity: images
+
+Quantity: nano-mechanical properties of the surface
+Entity: images
+
+Quantity: nano-mechanical properties of the surface
+Entity: images
+
+Quantity: nano-mechanical properties of the surface
+Entity: images
+
+Quantity: nano-mechanical properties of the surface
+Entity: images
+
+Quantity: nano-mechanical properties of the surface
+Entity: images
+
+Quantity: nano-mechanical properties of the surface
+Entity: images
+
+Quantity: nano-mechanical properties of the surface
+Entity: images
+
+Quantity: nano-me"
+},
+{ "doc": "S0022000014000026-12523.txt",
+"finish_reason":"length",
+"text" : "
+
+Data:
+Quantity: R
+Unit: R
+Entity:"
+},
+{ "doc": "S0022399913003358-956.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: UK prevalence estimates
+Unit: prevalence figures
+Entity: tinnitus
+
+Quantity: widely cited National Study of Hearing
+Unit: NSH
+Entity: prevalence figures
+
+Quantity: since then
+Unit: since
+Entity: prevalence figures
+
+Quantity: more recreational noise exposure
+Unit: recreational noise exposure
+Entity: prevalence figures
+
+Quantity: detailed description
+Unit: description
+Entity: prevalence figures
+
+Quantity: large population study
+Unit: population study
+Entity: prevalence figures
+
+Quantity: 40 to 69 years
+Unit: years
+Entity: age and sex
+"
+},
+{ "doc": "S0022459611006116-1200.txt",
+"finish_reason":"length",
+"text" : "
+
+Data:
+Quantity: 5≤2θ/°≤120
+Unit: 2θ/°
+Entity: step size
+
+Quantity: 14 h
+Unit: h
+Entity: step size
+
+Quantity: 14 h
+Unit: h
+Entity: step size
+
+Quantity: 14 h
+Unit: h
+Entity: step size
+
+Quantity: 14 h
+Unit: h
+Entity: step size
+
+Quantity: 14 h
+Unit: h
+Entity: step size
+
+Quantity: 14 h
+Unit: h
+Entity: step size
+
+Quantity: 14 h
+Unit: h
+Entity: step size
+
+Quantity: 14 h
+Unit: h
+Entity: step size
+
+Quantity: 14 h
+Unit: h
+Entity: step size
+
+Quantity: 14 h
+Unit: h
+Entity: step size
+
+Quantity: 14 h
+Unit: h
+Entity: step size
+
+Quantity: 14 h
+Unit: h
+Entity: step size
+
+Quantity: 14 h
+Unit: h
+Entity: step size
+
+Quantity: 14 h
+Unit: h
+Entity: step size
+
+Quantity: 14 h
+Unit: h
+Entity: step size
+
+Quantity: 14 h
+Unit: h
+Entity: step size
+
+Quantity: 14 h
+Unit: h
+Entity: step size
+
+Quantity: 14 h
+Unit: h
+Entity: step size
+
+Quantity: 14 h
+Unit: h
+Entity: step size
+
+Quantity: 14 h
+Unit: h
+Entity: step size
+
+Quantity: 14 h
+Unit: h
+Entity: step size
+
+Quantity:"
+},
+{ "doc": "S0022459611006116-1257.txt",
+"finish_reason":"length",
+"text" : "
+
+Data:
+Quantity: 1323 K
+Unit: K
+Entity: Mg3NF3 (1)
+
+Quantity: 4.2153(4) Å
+Unit: Å
+Property: a
+Entity: cubic unit cell
+
+Quantity: 1.1(2) wt%
+Unit: wt%
+Entity: secondary phase
+
+Quantity: 9.36 fm
+Unit: fm
+Entity: N: b
+
+Quantity: 5.65 fm
+Unit: fm
+Entity: F: b
+
+Quantity: 1323 K
+Unit: K
+Entity: initial powder diffraction measurements
+
+Quantity: 1323 K
+Unit: K
+Entity: ICDD database entry ("
+},
+{ "doc": "S0022459611006116-1351.txt",
+"finish_reason":"stop",
+"text" : " The final R-factor was 0.067 and the final wR-factor was 0.094.
+
+Data:
+Quantity: pale cream powder
+Unit: powder
+Entity: 2
+
+Quantity: 1423 K
+Unit: K
+Entity: synthesis of 2
+
+Quantity: a=4.1816(4) Å
+Unit: Å
+Entity: unit cell
+
+Quantity: c=10.0322(6) Å
+Unit: Å
+Entity: unit cell
+
+Quantity: a=4.186 Å
+Unit: Å
+Entity: literature values
+
+Quantity: c=10.042 Å
+Unit: Å
+Entity: literature values
+
+Quantity: 0.067
+Unit: R-factor
+Entity: final R-factor
+
+Quantity: 0.094
+Unit: wR-factor
+Entity: final wR-factor
+"
+},
+{ "doc": "S0022459611006116-1485.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: Supplementary data associated with this article can be found in the online version at doi:10.1016/j.jssc.2011.11.008.
+
+"
+},
+{ "doc": "S0022459611006116-987.txt",
+"finish_reason":"stop",
+"text" : "
+
+Data:
+Quantity: cubic (space group: Pm3m)
+Unit: space group
+Entity: Mg3NF3
+
+Quantity: tetragonal (space group: I41/amd)
+Unit: space group
+Entity: Mg2NF
+
+Quantity: essentially ionic
+Unit: ionic
+Entity: nitride fluorides
+
+Quantity: temperature independent paramagnetic behaviour
+Unit: temperature independent paramagnetic behaviour
+Entity: nitride fluorides
+"
+},
+]}
