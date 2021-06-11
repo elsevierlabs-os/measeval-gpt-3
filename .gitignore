@@ -74,8 +74,14 @@ docs/_build/
 # PyBuilder
 target/
 
+# PyCharm Project
+.idea/
+
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# MacOS jetsam
+.DS_Store
 
 # IPython
 profile_default/

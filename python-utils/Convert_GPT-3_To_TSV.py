@@ -7,10 +7,11 @@
 # to run the MEasEval dedupe notebook to remove them in order to get a like to like comparison with other 
 # MeasEval contestant entries.
 
-# Note: GPT-3 at times will return different-cased strings from what is in the actual paragraphs that are equivilent 
-# to the paragraph, but at other times it preserve the case sensitivity. Right now we're not accounting for that, 
-# although we could add additional logic to check for both variants when determining offsets and whether or not to 
-# drop the annotation record.
+# Note: GPT-3 at times will return different-cased strings from what is in the actual paragraphs but at other
+# times it preserves the case sensitivity. Currently, we enforce case sensitivity when trying to find a match
+# location for a GPT-3 span in the submitted paragraph as we populate TSV fields GPT-3 couldn't generate. This
+# effectively drops those mis-cased annotations even though all that is wrong is case sensitivity.
+# We could loosen this constraint in the future, but have decided to keep it for now.
 
 import json
 import argparse
@@ -59,8 +60,8 @@ def resetWorkVars():
     workProperty = ''
     workPropertyOffset = -1
 
-# Convert our raw GPT-3 output records to TSV format. In our case, an annotation set (which is really what we are processing here)
-# should have a quantity along with an optional unit, property, and entity.
+# Convert our raw GPT-3 output records to MeasEval TSV format. In our case, an annotation set (which is really
+# what we are processing here) should have a quantity along with an optional unit, property, and entity.
 def generateTsvAnnots():
     global workEntity, workEntityOffset, workUnit, workQuantity, workQuantityOffset, workProperty, workPropertyOffset, workAnnotSet, workAnnotId, doc_id, numQuantityDropped, numUnitDropped, numPropertyDropped, numEntityDropped
     workAnnots = []
@@ -68,7 +69,7 @@ def generateTsvAnnots():
     quantityId = -1
     propertyId = -1
     
-	# formats for the MeasEval TSV format for the various annotation types.
+    # formats for the MeasEval TSV format for the various annotation types.
     QUANTITY_FMT = '''{}\t{}\tQuantity\t{}\t{}\t{}\t{}\t'''
     ENTITY_FMT = '''{}\t{}\tMeasuredEntity\t{}\t{}\t{}\t{}\t{{"{}":"{}"}}'''
     PROPERTY_FMT = '''{}\t{}\tMeasuredProperty\t{}\t{}\t{}\t{}\t{{"HasQuantity":"{}"}}'''
@@ -149,8 +150,8 @@ with open(resultFile) as f:
     text = result['text']
     # Every annotation in the TSV file has a unique annotation id. We reset the id at each new paragraph.
     workAnnotId = 1
-    # All the realted annotations are in an unique annotation set for the paragraph. We reset that annotation set id
-    # for each paragraph
+    # All the related annotations are in an unique annotation set for the paragraph. We reset that annotation
+    # set id for each paragraph
     workAnnotSet = 1
     outputStr = ''
     outputAnnots = []
@@ -160,7 +161,7 @@ with open(resultFile) as f:
       print("processing doc: " + doc_id)
       print("finish_reason: " + finish_reason)
     
-    # Read in the paragraph text that was submitted to OpenAI so we can calcualte the offsets needed for the TSV
+    # Read in the paragraph text that was submitted to OpenAI so we can calculate the offsets needed for the TSV
     with open (paragraphDirectory + doc_id) as para_file:
         # Create the TSV file we're going to create for the raw results file
         with open(tsvDirectory + doc_id.replace('.txt', '.tsv'), 'w') as tsv_file:
@@ -173,7 +174,7 @@ with open(resultFile) as f:
             # New paragraph so reset all the work variables    
             resetWorkVars()
             
-            # process the lines from the text predictions from GPT-3 and start buiding up the TSV records. Each line
+            # process the lines from the text predictions from GPT-3 and start building up the TSV records. Each line
             # should be an annotation of some sort
             predictionLines = text.strip().split('\n')
             for line in predictionLines:
@@ -184,7 +185,7 @@ with open(resultFile) as f:
                     workQuantity = line.split("Quantity: ",1)[1]
                     workQuantityOffset = para.find(workQuantity)
                     # GPT-3 sometimes goes off the reservation and returns text that isn't in the original paragraph
-                    # Somnetimes extra characters, sometimes completely different text. This is true for all 3 types
+                    # Sometimes extra characters, sometimes completely different text. This is true for all 3 types
                     # of annotations.
                     # We'll drop the Quantity if that is the case:
                     if workQuantityOffset == -1:
@@ -232,7 +233,7 @@ with open(resultFile) as f:
                 tsv_file.write('{}\n'.format(annot))
         
             
-  print("Final droped annotation counts")
+  print("Final dropped annotation counts:")
   print('================================')
   print('''Number of Quantity annotations dropped: {}'''.format(numQuantityDropped))
   print('''Number of Unit annotations dropped: {}'''.format(numUnitDropped))

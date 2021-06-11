@@ -46,7 +46,8 @@ Our de-duplicated TSV files are located in this repo in the 'outputs/tsv_dedupe'
 
 
 
-Citing
+#### Citing
+
 If you need to cite this software in your own work, please use the following DOI.
 
 Kohler, Curt (2021), Elsevier Labs. MeasEval GPT-3 Utilities [Computer Software]; https://github.com/elsevierlabs-os/measeval-gpt-3.
