@@ -1,6 +1,6 @@
 # MeasEval GPT-3 Utilities
 
-This repo contains various Python utility code and iPython notebooks related to the evaluation of OpenAi's GPT-3 on SemEval 2021 - Task 8, MeasEval.  In order to generate actual GPT-3 predictions you will need an API key from OpenAI. 
+This repo contains various Python utility code and iPython notebooks related to the evaluation of OpenAi's GPT-3 on SemEval 2021 - Task 8, MeasEval. The details of our investigation can be found on the ArXiv paper: XXXXXXXXXX. In order to actually evaluate your own GPT-3 predictions you will need an API key from OpenAI to generate results from their service.  We are including the outputs from our investigation here as an example.
 
 The process of evaluating the MeasEval datasets against GPT-3 is a mult-step process. 
 
@@ -44,11 +44,4 @@ Our de-duplicated TSV files are located in this repo in the 'outputs/tsv_dedupe'
 
 4. Run the actual MeasEval evaluation script agasint our TSV files. Code and instructions can be found at: https://github.com/harperco/MeasEval/tree/main/eval.
 
-
-
-#### Citing
-
-If you need to cite this software in your own work, please use the following DOI.
-
-Kohler, Curt (2021), Elsevier Labs. MeasEval GPT-3 Utilities [Computer Software]; https://github.com/elsevierlabs-os/measeval-gpt-3.
 
