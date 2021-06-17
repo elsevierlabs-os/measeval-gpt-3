@@ -34,7 +34,7 @@ Our converted TSV results are located in this repo in the 'outputs/gpt3-tsv'  di
 
 ### Remove potential duplicate annotations.
 
-When running our GPT-3 scripts we noticed a number of cases where the output woudl repeatedly output the same annotation sequences multiple times. Due to the way that the MeasEval evaluation script operates, that could have the effect of artifically increasing or decreasing the final scores. In order to address this issue, we post-processed the TSV-format annotation files to drop any identical annotation sets. We'd like to thank Corey Harper for providing the MeasEval iPython Notebook that we used for this step. 
+When running our GPT-3 scripts we noticed a number of cases where the output would repeatedly output the same annotation sequences multiple times. Due to the way that the MeasEval evaluation script operates, that could have the effect of artifically increasing or decreasing the final scores. In order to address this issue, we post-processed the TSV-format annotation files to drop any identical annotation sets. We'd like to thank Corey Harper for providing the MeasEval iPython Notebook that we used for this step. 
 
 The Notebook needs 3 parameters updated in cell 2:
 
