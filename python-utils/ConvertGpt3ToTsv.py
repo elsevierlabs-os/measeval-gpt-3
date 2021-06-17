@@ -20,7 +20,7 @@ import argparse
 parser = argparse.ArgumentParser()
 
 parser.add_argument("resultFile", help="GPT-3 output file from previous step")
-parser.add_argument("paragraphDirectory", help="directory containing the paragraphs that were submitted to GPT-3 to create the resultsFile")
+parser.add_argument("paragraphDirectory", help="directory containing the paragraphs that were submitted to GPT-3")
 parser.add_argument("tsvDirectory", help="Directory to place the MeasEval TSV format files into")
 
 args = parser.parse_args()
@@ -63,7 +63,9 @@ def resetWorkVars():
 # Convert our raw GPT-3 output records to MeasEval TSV format. In our case, an annotation set (which is really
 # what we are processing here) should have a quantity along with an optional unit, property, and entity.
 def generateTsvAnnots():
-    global workEntity, workEntityOffset, workUnit, workQuantity, workQuantityOffset, workProperty, workPropertyOffset, workAnnotSet, workAnnotId, doc_id, numQuantityDropped, numUnitDropped, numPropertyDropped, numEntityDropped
+    global workEntity, workEntityOffset, workUnit, workQuantity, workQuantityOffset, workProperty, \
+        workPropertyOffset, workAnnotSet, workAnnotId, doc_id, numQuantityDropped, numUnitDropped, \
+        numPropertyDropped, numEntityDropped
     workAnnots = []
     workStr = ''
     quantityId = -1
@@ -80,7 +82,8 @@ def generateTsvAnnots():
     # Do we have a Quantity for this annotation set? Remember, we might have reset the Quantity to '' because it didn't
     # exist in the actual paragraph being processed
     if (workQuantity != ''):
-        workStr = QUANTITY_FMT.format(doc_id, workAnnotSet, workQuantityOffset, len(workQuantity) + workQuantityOffset, workAnnotId, workQuantity)
+        workStr = QUANTITY_FMT.format(doc_id, workAnnotSet, workQuantityOffset, \
+                                      len(workQuantity) + workQuantityOffset, workAnnotId, workQuantity)
         if  workUnit != '':
             workStr = workStr + '{ "unit": "' + workUnit + '"}'
         quantityId = workAnnotId
@@ -90,7 +93,9 @@ def generateTsvAnnots():
         # MeasuredProperties require both a Measured Entity and Quantity.  Drop any Properties that GPT-3 might have 
         # found without those additional fields
         if workQuantity != '':
-            workStr = PROPERTY_FMT.format(doc_id, workAnnotSet, workPropertyOffset, len(workProperty) + workPropertyOffset, workAnnotId, workProperty, quantityId, '\n') 
+            workStr = PROPERTY_FMT.format(doc_id, workAnnotSet, workPropertyOffset, \
+                                          len(workProperty) + workPropertyOffset, workAnnotId, workProperty, \
+                                          quantityId, '\n')
             propertyId = workAnnotId
             workAnnotId = workAnnotId+ 1
             workAnnots.append(workStr)
@@ -103,9 +108,13 @@ def generateTsvAnnots():
         # what is present in the Annotation Set, we output it with the proper relationship mapping.
         if workQuantity != '':
             if workProperty != '':
-                workStr = ENTITY_FMT.format(doc_id, workAnnotSet, workEntityOffset, len(workEntity) + workEntityOffset, workAnnotId, workEntity, "HasProperty", propertyId) 
+                workStr = ENTITY_FMT.format(doc_id, workAnnotSet, workEntityOffset, \
+                                            len(workEntity) + workEntityOffset, workAnnotId, workEntity, \
+                                            "HasProperty", propertyId)
             else:
-                workStr =  ENTITY_FMT.format(doc_id, workAnnotSet, workEntityOffset, len(workEntity) + workEntityOffset, workAnnotId, workEntity, "HasQuantity", quantityId)
+                workStr =  ENTITY_FMT.format(doc_id, workAnnotSet, workEntityOffset, \
+                                             len(workEntity) + workEntityOffset, workAnnotId, workEntity, \
+                                             "HasQuantity", quantityId)
             workAnnotId = workAnnotId+ 1
             workAnnots.append(workStr)
         else:
