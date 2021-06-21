@@ -1,0 +1,4 @@
+# CODEOWNERS for the measeval-gpt-3 project.
+
+# ddefault owners for everything inathe repo
+*       @curtkohler @measeval-gpt-3
