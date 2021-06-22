@@ -1,2 +1,4 @@
-transformers
-openai
+# The code in this repo was run with Python 3.7.3 
+
+transformers==4.6.1
+openai==0.7.0
