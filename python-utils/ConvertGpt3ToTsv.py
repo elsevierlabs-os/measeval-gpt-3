@@ -147,6 +147,7 @@ with open(resultFile) as f:
     data = data.replace('\\n"\\n}', '"}')
     data = data.replace('"\\n}', '"}')
     data = data.replace('}\\n]}\\n', '}]}')
+    data = data.replace('},\n]}', '}]}')
 
     if DEBUG is True:
         print("Massaged GPT-3 Results: " + data)
