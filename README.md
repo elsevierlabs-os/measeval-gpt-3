@@ -1,6 +1,6 @@
 # MeasEval GPT-3 Utilities
 
-This repo contains various Python utility code and iPython notebooks related to the evaluation of OpenAi's GPT-3 on SemEval 2021 - Task 8, MeasEval. The details of our investigation can be found on the ArXiv paper: XXXXXXXXXX. In order to actually evaluate your own GPT-3 predictions you will need an API key from OpenAI to generate results from their service.  We are including the outputs from our investigation here as an example.
+This repo contains various Python utility code and iPython notebooks related to the evaluation of OpenAi's GPT-3 on SemEval 2021 - Task 8, MeasEval. The details of our investigation can be found in the ArXiv paper: [https://arxiv.org/abs/2106.14720](https://arxiv.org/abs/2106.14720). In order to actually evaluate your own GPT-3 predictions you will need an API key from OpenAI to generate results from their service.  We are including the outputs from our investigation here as an example.
 
 The process of evaluating the MeasEval datasets against GPT-3 is a mult-step process. 
 
